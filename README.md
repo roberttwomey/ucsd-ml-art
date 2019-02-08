@@ -1,13 +1,5 @@
 # ECE 188: Machine Learning for the Arts - Spring 2019
 
-**Instructor:** Dr. Robert Twomey
-
-**Lecture:** MW 12:30-1:50pm
-
-**Location:** EBU1 2315
-
-**Lab:** Th tbd
-
 **REGISTER FOR THE MANDATORY BOOTCAMP:** [https://goo.gl/forms/qWWFqUFNK8nvVvSE2](https://goo.gl/forms/qWWFqUFNK8nvVvSE2)
 
 Finals Week, Thursday 3/21/2019, 10am - 3pm
@@ -23,6 +15,16 @@ As ML permeates multiple aspects of culture, industry, and scholarship, it is es
 This project-based course will be conducted primarily in python using free, open-source machine learning and scientific computing toolkits, running on cloud-based educational computing resources. In addition to hands-on experience with ML techniques, students will become familiar with cloud-based workflows, jupyter notebooks, and kubernetes containers. Architectures and topics covered include Recurrent Neural Networks (RNNs), Convolutional Neural Networks (CNNs), LSTMs, Wavenets, Generative Adversarial Networks (GANs) and others. Students will be responsible both for technical implementation and creative value of course projects.  
 
 **Prequisites:** ECE16, ECE143, or equivalent course on Python. **_Students need to attend the bootcamp during Finals Week Winter 2019._** 
+
+## Logistics
+
+**Instructor:** Dr. Robert Twomey
+
+**Lecture:** MW 12:30-1:50pm
+
+**Location:** EBU1 2315
+
+**Lab:** Th tbd
 
 ## Schedule
 ### Introduction to Art and ML (Week 1)
