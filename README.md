@@ -18,10 +18,10 @@ This project-based course will be conducted primarily in python using free, open
 
 ## Logistics
 
--**Instructor:** Dr. Robert Twomey
--**Lecture:** MW 12:30-1:50pm
--**Location:** EBU1 2315
--**Lab:** Th tbd
+* **Instructor:** Dr. Robert Twomey
+* **Lecture:** MW 12:30-1:50pm
+* **Location:** EBU1 2315
+* **Lab:** Th tbd
 
 ## Schedule
 ### Introduction to Art and ML (Week 1)
