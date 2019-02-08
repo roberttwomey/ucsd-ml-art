@@ -13,14 +13,14 @@ This project-based course will be conducted primarily in python using free, open
 **Prequisites:** ECE16, ECE143, or equivalent course on Python. Students need to attend the bootcamp during Finals Week Winter 2019. 
 
 ## Schedule
-Introduction to Art and ML (Week 1)
+### Introduction to Art and ML (Week 1)
 - Machine Learning Overview
 - Generative Systems in Art Overview
 - Survey of notable work in Art and ML
 - The concept of style in art, machine generated style
 - Project 1: Style Transfer
 
-Text Generation (Week 2-3)
+### Text Generation (Week 2-3)
 - Working with textual corpora
 - RNNs (karpathy) (character level, world level)
 - Other sequences (drawing classification)
@@ -29,44 +29,28 @@ Text Generation (Week 2-3)
 - Sense and non-sense with ML. 
 - Project 2: Generative Text
 
-Time Series in ML (Week 4)
+### Time Series in ML (Week 4)
 - Handwriting
 - Drawings (Sketch RNN)
 - Music and ML discussion (MIDI, Performance RNN)
 - Lab Exercise: Sketching with ML
 
-Visual Processing (Week 5)
+### Visual Processing (Week 5)
 - Image segmentation, recognition
 - Captioning (MS-COCO)
 - Pix2pix
 - Faces: recognition, pose estimation, 3d reconstruction (deepfakes)
 - Project 3: Generative Image
 
-Advanced Generative Systems (Week 6-8)
+### Advanced Generative Systems (Week 6-8)
 - Unsupervised learning
 - Generative Adversarial Networks (GANs)
 - Variational Auto-Encoders (VAEs)
 - Pixel RNN
 
-Final Project Development (Week 9-10)
+### Final Project Development (Week 9-10)
 
-Final Presentations / Exhibition (Finals Week)
-
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+### Final Presentations / Exhibition (Finals Week)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
