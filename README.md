@@ -1,8 +1,7 @@
 # ECE 188: Machine Learning for the Arts 2019
 
-## REGISTER FOR THE BOOTCAMP
+## REGISTER FOR THE BOOTCAMP: https://goo.gl/forms/qWWFqUFNK8nvVvSE2
 Thursday 3/21, 10am - 3pm
-https://goo.gl/forms/qWWFqUFNK8nvVvSE2
 
 ![Image](ml_art2019.png)
 
