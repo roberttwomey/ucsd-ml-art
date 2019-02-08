@@ -1,5 +1,13 @@
 # ECE 188: Machine Learning for the Arts - Spring 2019
 
+**Instructor:** Dr. Robert Twomey
+
+**Lecture:** MW 12:30-1:50pm
+
+**Location:** EBU1 2315
+
+**Lab:** Th tbd
+
 **REGISTER FOR THE MANDATORY BOOTCAMP:** [https://goo.gl/forms/qWWFqUFNK8nvVvSE2](https://goo.gl/forms/qWWFqUFNK8nvVvSE2)
 
 Finals Week, Thursday 3/21/2019, 10am - 3pm
