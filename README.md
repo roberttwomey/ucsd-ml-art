@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## ECE 188: Machine Learning for the Arts 2019
 
 ![Image](ml_art2019.png)
 
