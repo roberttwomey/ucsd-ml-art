@@ -2,7 +2,7 @@
 
 **REGISTER FOR THE MANDATORY BOOTCAMP:** [https://goo.gl/forms/qWWFqUFNK8nvVvSE2](https://goo.gl/forms/qWWFqUFNK8nvVvSE2)
 
-Finals Week, Thursday 3/21/2019, 10am - 3pm
+Finals Week Winter 2019, Thursday 3/21/2019, 10am - 3pm
 
 ![Image](ml_art2019.png)
 
@@ -18,10 +18,10 @@ This project-based course will be conducted primarily in python using free, open
 
 ## Logistics
 
-* **Instructor:** Dr. Robert Twomey
-* **Lecture:** MW 12:30-1:50pm
-* **Location:** EBU1 2315
-* **Lab:** Th tbd
+- **Instructor:** Dr. Robert Twomey
+- **Lecture:** MW 12:30-1:50pm
+- **Location:** EBU1 2315
+- **Lab:** Th tbd
 
 ## Schedule
 ### Introduction to Art and ML (Week 1)
