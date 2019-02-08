@@ -1,6 +1,7 @@
 # ECE 188: Machine Learning for the Arts - Spring 2019
 
 **REGISTER FOR THE MANDATORY BOOTCAMP:** [https://goo.gl/forms/qWWFqUFNK8nvVvSE2](https://goo.gl/forms/qWWFqUFNK8nvVvSE2)
+
 Finals Week, Thursday 3/21/2019, 10am - 3pm
 
 ![Image](ml_art2019.png)
