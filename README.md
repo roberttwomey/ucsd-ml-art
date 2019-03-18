@@ -2,7 +2,7 @@
 
 **REGISTER FOR THE MANDATORY BOOTCAMP:** [https://goo.gl/forms/qWWFqUFNK8nvVvSE2](https://goo.gl/forms/qWWFqUFNK8nvVvSE2)
 
-Thursday 3/21/2019, 10am - 3pm
+Thursday 3/21/2019, 10am - 3pm, Qualcomm Conference Center, Jacobs School of Engineering
 
 ![Image](ml_art2019.png)
 
@@ -21,7 +21,7 @@ This project-based course will be conducted primarily in python using free, open
 - **Instructor:** Dr. Robert Twomey
 - **Lecture:** MW 12:30-1:50pm
 - **Location:** EBU1 2315
-- **Lab:** Th tbd
+- **Lab:** Friday 12:30-1:50pm
 
 ## Schedule
 ### Introduction to Art and ML (Week 1)
