@@ -4,6 +4,8 @@
 
 Thursday 3/21/2019, 10am - 3pm, Qualcomm Conference Center, Jacobs School of Engineering
 
+Bootcamp Materials: [http://github.com/roberttwomey/ml-art-bootcamp](http://github.com/roberttwomey/ml-art-bootcamp)
+
 ![Image](ml_art2019.png)
 
 ## Course Description
