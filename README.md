@@ -2,7 +2,7 @@
 
 ![Image](ml_art2019.png)
 
-[Details](#Details) | [Resources](#Resources) | [Policies](#Policies) | [Schedule](#Schedule) | [Projects](#Projects) | [CMU Collaboration](#cmu)
+[Details](#Details) | [Resources](#Resources) | [Policies](#Policies) | [Schedule](#Schedule) | [Projects](#Projects) | [CMU Collaboration](#cmu-collaboration)
 
 ## Course Description
 
@@ -27,7 +27,25 @@ This project-based course will be conducted primarily in python using free, open
 - Bootcamp Materials: [http://github.com/roberttwomey/ml-art-bootcamp](http://github.com/roberttwomey/ml-art-bootcamp)
 
 ## Resources
-- **Discussion:** we will use slack for discussion [https://ucsd-ml-art.slack.com](https://ucsd-ml-art.slack.com) (join with your @ucsd account)
+* **Discussion:** we will use slack for discussion [https://ucsd-ml-art.slack.com](https://ucsd-ml-art.slack.com) (join with your @ucsd account)
+
+* **Compute Resources:** We will use [datahub.ucsd.edu](http://datahub.ucsd.edu) for our in class computing environment. If you did not attend the bootcamp you need to contact me to be approved for datahub access. I will base it off of our final enrollment. 
+
+## Policies
+
+### Grading
+* Projects - 4 @ 15%
+  * Code, Documentation, and Results must be submitted for credit.
+* Final Project - 30%
+  * Code, Documentation
+  * Poster (poster talk)
+  *Exhibition
+
+Work will be evaluated on quality of concept, degree of experimentation, and technical realization. I will share a rubric with the first project assignment.
+
+### Group Work
+
+This course will be a mix of group work and individual work depending on the needs of each assignment. I want you each to develop your own personal research interests, but also to pool your resources and talents to produce the best projects possible. 
 
 ## Schedule
 
