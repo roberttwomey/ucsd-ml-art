@@ -132,4 +132,4 @@ This course will be a mix of group work and individual work depending on the nee
 
 ## CMU Collaboration
 
-Coming soon!
+We will have a couple of opportunities to interact with a similar class running this Spring at Carnegie Mellon University, as well as a joint online exhibition (opt-in) for excellent student work. More info coming soon!
