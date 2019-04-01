@@ -2,7 +2,7 @@
 
 ![Image](ml_art2019.png)
 
-[Logistics](#logistics)
+[Logistics](#logistics) | [Schedule](#Schedule) | [Grading](#Grading) | [Projects](#Projects)
 
 ## Course Description
 
