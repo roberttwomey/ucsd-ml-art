@@ -25,21 +25,20 @@ This project-based course will be conducted primarily in python using free, open
 - Bootcamp Materials: [http://github.com/roberttwomey/ml-art-bootcamp](http://github.com/roberttwomey/ml-art-bootcamp)
 
 ## Resources
-- **Discussion:** we will use slack for discussion https://ucsd-ml-art.slack.com (join with your @ucsd account)
+- **Discussion:** we will use slack for discussion [https://ucsd-ml-art.slack.com](https://ucsd-ml-art.slack.com) (join with your @ucsd account)
 
 ## Schedule
-| Week | Date | Topic |
-| --- | --- | --- |
-| 1 | 4/1/2019 | Introductions and Syllabus |
-| 1 | 4/3/2019 | Introduction to Art and ML |
-| 1 | 4/5/2019 | Lab: Environment Setup |
 
 ### Introduction to Art and ML (Week 1)
+* Day 1 -Introductions*
+- Syllabus, policies, schedule
+- Projects
+- My approach
+
+* Lecture 2 - Intro to Art and ML
 - Machine Learning Overview
 - Generative Systems in Art Overview
 - Survey of notable work in Art and ML
-- The concept of style in art, machine generated style
-- Project 1: Style Transfer
 
 ### Text Generation (Week 2-3)
 - Working with textual corpora
