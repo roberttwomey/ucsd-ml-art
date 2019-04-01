@@ -30,44 +30,70 @@ This project-based course will be conducted primarily in python using free, open
 ## Schedule
 
 ### Introduction to Art and ML (Week 1)
-*Day 1 -Introductions*
+**Day 1: Course and Syllabus**
 - Syllabus, policies, schedule
 - Projects
 - My approach
+- Logistical questions?
 
-*Lecture 2 - Intro to Art and ML*
+**Day 2: Introduction to Art and ML**
 - Machine Learning Overview
 - Generative Systems in Art Overview
 - Survey of notable work in Art and ML
 
-### Text Generation (Week 2-3)
+**Lab 1: Get set up in our environment**
+- Hands-on with datahub.ucsd.edu, jupyter
+- Confirm everyone's logon works
+- Help? 
+
+### Text Generation (Week 2)
+
 - Working with textual corpora
 - RNNs (karpathy) (character level, world level)
 - Other sequences (drawing classification)
 - Generative text (recipes, poetry, fiction, screenplays, etc…)
 - Chatbots
 - Sense and non-sense with ML. 
-- Project 2: Generative Text
 
-### Time Series in ML (Week 4)
+**Assign Project 1: Generative Text** Due Friday 4/19
+
+**Lab 2: Project Work Time**
+
+### Time Series in ML (Week 3)
 - Handwriting
 - Drawings (Sketch RNN)
-- Music and ML discussion (MIDI, Performance RNN)
-- Lab Exercise: Sketching with ML
 
-### Visual Processing (Week 5)
-- Image segmentation, recognition
-- Captioning (MS-COCO)
+**Assign Project 2: Sketching with ML**
+
+**Lab 3: Project 1 discussion**
+
+### Audio Processing (Week 4-5)
+- Music and ML discussion (MIDI, Performance RNN)
+- Simple audio recognition
+- Music and audio analysis (librosa)
+- Music Generation (Magenta)
+- Text to speech
+
+**Assign Project 3: Generative Audio**
+
+### Visual Processing (Week 6)
+- Image segmentation, recognition, Captioning (MS-COCO)
 - Pix2pix
 - Faces: recognition, pose estimation, 3d reconstruction (deepfakes)
-- Project 3: Generative Image
 
-### Advanced Generative Systems (Week 6-8)
+**Assign Project 4: Generative Visual**
+
+### Advanced Generative Systems (Week 7)
 - Unsupervised learning
 - Generative Adversarial Networks (GANs)
 - Variational Auto-Encoders (VAEs)
 - Pixel RNN
 
 ### Final Project Development (Week 9-10)
+
+**Lecture: Alternate Platforms**
+- TPUs
+- Embedded systems (NVIDIA jetson nano, Google Coral, others)
+- Tools (DNNWeaver)
 
 ### Final Presentations / Exhibition (Finals Week)
