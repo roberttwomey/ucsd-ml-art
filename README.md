@@ -34,12 +34,14 @@ This project-based course will be conducted primarily in python using free, open
 ## Policies
 
 ### Grading
-* Projects - 4 @ 15%
+* Projects - You will do four projects at 15% each. 
   * Code, Documentation, and Results must be submitted for credit.
 * Final Project - 30%
   * Code, Documentation
   * Poster (poster talk)
-  *Exhibition
+  * Exhibition 
+* Participation - 10%
+  * Small assignments/tasks as they arise. 
 
 Work will be evaluated on quality of concept, degree of experimentation, and technical realization. I will share a rubric with the first project assignment.
 
