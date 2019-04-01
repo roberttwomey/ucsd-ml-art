@@ -76,7 +76,7 @@ This project-based course will be conducted primarily in python using free, open
 
 **Assign Project 3: Generative Audio**
 
--### Visual Systems (Week 6-7)
+### Visual Systems (Week 6-7)
 - Image segmentation, recognition, Captioning (MS-COCO)
 - Pix2pix
 - Faces: recognition, pose estimation, 3d reconstruction (deepfakes)
