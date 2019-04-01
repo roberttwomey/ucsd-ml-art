@@ -140,7 +140,7 @@ We will have critique/group discussion for each of the projects this quarter.
 
 ## CMU Collaboration
 
-We will have a couple of opportunities to interact with a similar class running this Spring at Carnegie Mellon University, as well as a joint online exhibition (opt-in) for excellent student work. More info coming soon!
+We will have a couple of opportunities to interact with a similar class running this Spring at Carnegie Mellon University, as well as making a joint, online, public-facing exhibition for excellent student work (opt-in). More info coming soon!
 
 ## Accomodations
 The Office for Students with Disabilities (OSD), an Academic Affairs department, is responsible for the review of medical documentation and the determination of reasonable accommodations based on a disability. Authorization for Accommodation (AFA) letters are issued by the OSD and given to undergraduate, graduate, and Professional School students directly. If you have an AFA letter, meet with the CSE Student Affairs representative, and schedule an appointment with your instructor by the end of Week 2 to ensure that reasonable accommodations for the quarter can be arranged.
