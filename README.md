@@ -63,6 +63,7 @@ We will have critique/group discussion for each of the projects this quarter.
 - Projects
 - My approach
 - Logistical questions?
+**Homework:** Sign up for slack and post something you are interested in (a project, paper, github link) to #shiny.
 
 **Day 2: Introduction to Art and ML** (4/3/2019)
 - Machine Learning Overview
