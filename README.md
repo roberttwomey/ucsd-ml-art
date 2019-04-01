@@ -41,13 +41,18 @@ This project-based course will be conducted primarily in python using free, open
   * Poster (poster talk)
   * Exhibition 
 * Participation - 10%
-  * Small assignments/tasks as they arise. 
+  * Small assignments/tasks as they arise.
+  * Finding and sharing resources on our course slack.
 
 Work will be evaluated on quality of concept, degree of experimentation, and technical realization. I will share a rubric with the first project assignment.
 
 ### Group Work
 
 This course will be a mix of group work and individual work depending on the needs of each assignment. I want you each to develop your own personal research interests, but also to pool your resources and talents to produce the best projects possible. 
+
+### Project Critiques and Group Discussions
+
+We will have critique/group discussion for each of the projects this quarter.
 
 ## Schedule
 
