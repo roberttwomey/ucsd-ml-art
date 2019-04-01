@@ -76,18 +76,16 @@ This project-based course will be conducted primarily in python using free, open
 
 **Assign Project 3: Generative Audio**
 
-### Visual Processing (Week 6)
+-### Visual Systems (Week 6-7)
 - Image segmentation, recognition, Captioning (MS-COCO)
 - Pix2pix
 - Faces: recognition, pose estimation, 3d reconstruction (deepfakes)
-
-**Assign Project 4: Generative Visual**
-
-### Advanced Generative Systems (Week 7)
 - Unsupervised learning
 - Generative Adversarial Networks (GANs)
 - Variational Auto-Encoders (VAEs)
 - Pixel RNN
+
+**Assign Project 4: Generative Visual**
 
 ### Final Project Development (Week 9-10)
 
