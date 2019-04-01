@@ -109,3 +109,7 @@ This project-based course will be conducted primarily in python using free, open
 ### Project 4: Generative Visual
 
 ### Final Project: Independent Research
+
+## CMU Collaboration
+
+Coming soon!
