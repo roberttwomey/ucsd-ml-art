@@ -2,7 +2,7 @@
 
 ![Image](ml_art2019.png)
 
-[Details](#details) | [Resources](#resources) | [Policies](#policies) | [Schedule](#schedule) | [Projects](#projects) | [CMU Collaboration](#cmu-collaboration)
+[Details](#details) | [Resources](#resources) | [Policies](#policies) | [Schedule](#schedule) | [Projects](#projects) | [CMU Collaboration](#cmu-collaboration) | [Accomodations](#accomodations) | [Diversity and Inclusion](#diversity-and-inclusion)
 
 ## Course Description
 
