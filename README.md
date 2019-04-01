@@ -42,6 +42,7 @@ This project-based course will be conducted primarily in python using free, open
   * Exhibition 
 * Participation - 10%
   * Small assignments/tasks as they arise, graded on completion.
+  * Readings.
   * Finding and sharing resources on our course discussion. 
   * Any written proposals, work-in-progress updates, check-ins, etc., I request for individual projects.
 
