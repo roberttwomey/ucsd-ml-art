@@ -2,7 +2,7 @@
 
 ![Image](ml_art2019.png)
 
-[Logistics](#logistics) | [Schedule](#Schedule) | [Grading](#Grading) | [Projects](#Projects)
+[Details](#logistics) | [Resources](#Resources) | [Schedule](#Schedule) | [Grading](#Grading) | [Projects](#Projects)
 
 ## Course Description
 
@@ -97,3 +97,15 @@ This project-based course will be conducted primarily in python using free, open
 - Tools (DNNWeaver)
 
 ### Final Presentations / Exhibition (Finals Week)
+
+## Projects
+
+### Project 1: Generative Text
+
+### Project 2: Sketching with ML
+
+### Project 3: Generative Audio
+
+### Project 4: Generative Visual
+
+### Final Project: Independent Research
