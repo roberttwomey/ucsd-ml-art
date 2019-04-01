@@ -29,10 +29,6 @@ This project-based course will be conducted primarily in python using free, open
 
 ## Schedule
 
-| Time | Activity |
-| --- | --- |
-| 10:00-10:30 | Lecture: Introduction and Motivation ("Generative Machines") |
-
 ### Introduction to Art and ML (Week 1)
 **Day 1: Course and Syllabus**
 - Syllabus, policies, schedule
