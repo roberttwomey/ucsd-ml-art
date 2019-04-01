@@ -2,7 +2,7 @@
 
 ![Image](ml_art2019.png)
 
-[Details](#logistics) | [Resources](#Resources) | [Schedule](#Schedule) | [Grading](#Grading) | [Projects](#Projects)
+[Details](#Details) | [Resources](#Resources) | [Policies](#Policies) | [Schedule](#Schedule) | [Projects](#Projects)
 
 ## Course Description
 
@@ -14,7 +14,7 @@ This project-based course will be conducted primarily in python using free, open
 
 **Prequisites:** ECE16, ECE143, or equivalent course on Python. **_Students need to attend the bootcamp 3/21 to enroll in the course._** 
 
-## Logistics
+## Details
 
 - **Instructor:** Dr. Robert Twomey
 - **Lecture:** MW 12:30-1:50pm
