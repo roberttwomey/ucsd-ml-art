@@ -42,13 +42,14 @@ This project-based course will be conducted primarily in python using free, open
   * Exhibition 
 * Participation - 10%
   * Small assignments/tasks as they arise.
-  * Finding and sharing resources on our course slack.
+  * Finding and sharing resources on our course discussion. 
+  * Any written proposals, work-in-progress updates, check-ins, etc., I request for individual projects.
 
-Work will be evaluated on quality of concept, degree of experimentation, and technical realization. I will share a rubric with the first project assignment.
+Work will be evaluated on the quality of concept, the degree of experimentation (both aesthetic and technical), and final realization (again, aesthetic and technical). I will share a rubric with the first project assignment.
 
 ### Group Work
 
-This course will be a mix of group work and individual work depending on the needs of each assignment. I want you each to develop your own personal research interests, but also to pool your resources and talents to produce the best projects possible. 
+This course will be a mix of group work and individual work depending on each assignment. I want you each to develop your own personal research interests, but also to pool your resources and talents to produce the best projects possible. 
 
 ### Project Critiques and Group Discussions
 
@@ -138,3 +139,13 @@ We will have critique/group discussion for each of the projects this quarter.
 ## CMU Collaboration
 
 We will have a couple of opportunities to interact with a similar class running this Spring at Carnegie Mellon University, as well as a joint online exhibition (opt-in) for excellent student work. More info coming soon!
+
+## Accomodations
+The Office for Students with Disabilities (OSD), an Academic Affairs department, is responsible for the review of medical documentation and the determination of reasonable accommodations based on a disability. Authorization for Accommodation (AFA) letters are issued by the OSD and given to undergraduate, graduate, and Professional School students directly. If you have an AFA letter, meet with the CSE Student Affairs representative, and schedule an appointment with your instructor by the end of Week 2 to ensure that reasonable accommodations for the quarter can be arranged.
+
+## Diversity and Inclusion
+We are committed to fostering a learning environment for this course that supports a diversity of thoughts, perspectives and experiences, and respects your identities (including race, ethnicity, heritage, gender, sex, class, sexuality, religion, ability, age, educational background, etc.). Our goal is to create a diverse and inclusive learning environment where all students feel comfortable and can thrive.
+
+Our instructional staff will make a concerted effort to be welcoming and inclusive to the wide diversity of students in this course. If there is a way we can make you feel more included please let one of the course staff know, either in person, via email/discussion board, or even in a note under the door. Our learning about diverse perspectives and identities is an ongoing process, and we welcome your perspectives and input.
+
+We also expect that you, as a student in this course, will honor and respect your classmates, abiding by the UCSD Principles of Community [https://ucsd.edu/about/principles.html](https://ucsd.edu/about/principles.html). Please understand that others’ backgrounds, perspectives and experiences may be different than your own, and help us to build an environment where everyone is respected and feels comfortable.If you experience any sort of harassment or discrimination, please contact the instructor as soon as possible. If you prefer to speak with someone outside of the course, please contact the Office of Prevention of Harassment and Discrimination: [https://ophd.ucsd.edu/](https://ophd.ucsd.edu/)
