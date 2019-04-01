@@ -30,18 +30,18 @@ This project-based course will be conducted primarily in python using free, open
 ## Schedule
 
 ### Introduction to Art and ML (Week 1)
-**Day 1: Course and Syllabus**
+**Day 1: Course and Syllabus** (4/1/2019)
 - Syllabus, policies, schedule
 - Projects
 - My approach
 - Logistical questions?
 
-**Day 2: Introduction to Art and ML**
+**Day 2: Introduction to Art and ML** (4/3/2019)
 - Machine Learning Overview
 - Generative Systems in Art Overview
 - Survey of notable work in Art and ML
 
-**Lab 1: Get set up in our environment**
+**Lab 1: Get set up in our environment** (4/5/2019)
 - Hands-on with datahub.ucsd.edu, jupyter
 - Confirm everyone's logon works
 - Help? 
