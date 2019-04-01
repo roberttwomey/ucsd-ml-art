@@ -16,15 +16,24 @@ This project-based course will be conducted primarily in python using free, open
 
 - **Instructor:** Dr. Robert Twomey
 - **Lecture:** MW 12:30-1:50pm
-- **Location:** EBU1 2315
 - **Lab:** Friday 12:30-1:50pm
+- **Location:** EBU1 2315
 
 **Bootcamp**
 - Thursday 3/21/2019, 10am - 3pm, Qualcomm Conference Center, Jacobs School of Engineering
 - Registration: [https://goo.gl/forms/qWWFqUFNK8nvVvSE2](https://goo.gl/forms/qWWFqUFNK8nvVvSE2)
 - Bootcamp Materials: [http://github.com/roberttwomey/ml-art-bootcamp](http://github.com/roberttwomey/ml-art-bootcamp)
 
+## Resources
+- **Discussion:** we will use slack for discussion https://ucsd-ml-art.slack.com (join with your @ucsd account)
+
 ## Schedule
+| Week | Date | Topic |
+| --- | --- | --- |
+| 1 | 4/1/2019 | Introductions and Syllabus |
+| 1 | 4/3/2019 | Introduction to Art and ML |
+| 1 | 4/5/2019 | Lab: Environment Setup |
+
 ### Introduction to Art and ML (Week 1)
 - Machine Learning Overview
 - Generative Systems in Art Overview
