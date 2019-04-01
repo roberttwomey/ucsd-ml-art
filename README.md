@@ -30,12 +30,12 @@ This project-based course will be conducted primarily in python using free, open
 ## Schedule
 
 ### Introduction to Art and ML (Week 1)
-* Day 1 -Introductions*
+*Day 1 -Introductions*
 - Syllabus, policies, schedule
 - Projects
 - My approach
 
-* Lecture 2 - Intro to Art and ML
+*Lecture 2 - Intro to Art and ML*
 - Machine Learning Overview
 - Generative Systems in Art Overview
 - Survey of notable work in Art and ML
