@@ -64,6 +64,7 @@ We will have critique/group discussion for each of the projects this quarter.
 - Projects
 - My approach
 - Logistical questions?
+- Lecture 1 [ece188-w1-l1.pdf](https://drive.google.com/file/d/1EGI-bioemxFXJb5VfpVB5snLGBxX3fxr/view?usp=sharing)
 
 **Homework:** Sign up for slack and post something you are interested in (a project, paper, github link) to [#shiny](https://ece188-ml-art.slack.com/messages/CHJDGRV0X).
 
