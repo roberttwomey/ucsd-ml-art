@@ -68,8 +68,7 @@ We will have critique/group discussion for each of the projects this quarter.
 
 **Homework:** Sign up for slack and post something you are interested in (a project, paper, github link) to [#shiny](https://ece188-ml-art.slack.com/messages/CHJDGRV0X).
 
-**Day 2: Introduction to Art and ML** (4/3/2019)
-- Machine Learning Overview
+**Day 2: Introduction to ML and the Arts** (4/3/2019)
 - Generative Systems in Art Overview
 - Survey of notable work in Art and ML
 
@@ -79,13 +78,19 @@ We will have critique/group discussion for each of the projects this quarter.
 - Help? 
 
 ### Text Generation (Week 2)
-
-- Working with textual corpora
-- RNNs (karpathy) (character level, world level)
-- Other sequences (drawing classification)
-- Generative text (recipes, poetry, fiction, screenplays, etc…)
-- Chatbots
-- Sense and non-sense with ML. 
+- Approaches to generative text
+  - RNNs (karpathy) (character level, world level)
+  - GPT, GPT-2
+  - others
+- Practical Issues
+  - Working with textual corpora
+- Outputs
+  - Generative text (recipes, poetry, fiction, screenplays, etc…)
+  - Chatbots
+- Issues
+  - Sense and non-sense with ML
+  - Wilful suspension of disbelief
+  - The eliza effect
 
 **Assign Project 1: Generative Text** Due Friday 4/19
 
