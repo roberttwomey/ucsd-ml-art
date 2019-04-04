@@ -27,7 +27,7 @@ This project-based course will be conducted primarily in python using free, open
 - Bootcamp Materials: [http://github.com/roberttwomey/ml-art-bootcamp](http://github.com/roberttwomey/ml-art-bootcamp)
 
 ## Resources
-* **Discussion:** we will use slack for discussion [https://ucsd-ml-art.slack.com](https://ucsd-ml-art.slack.com) (join with your @ucsd account)
+* **Discussion:** we will use slack for discussion [https://ucsd-ml-art.slack.com/signup](https://ucsd-ml-art.slack.com/signup) (join with your @ucsd account)
 
 * **Compute Resources:** We will use [datahub.ucsd.edu](http://datahub.ucsd.edu) for our in class computing environment. If you did not attend the bootcamp you need to contact me to be approved for datahub access. I will base it off of our final enrollment. 
 
