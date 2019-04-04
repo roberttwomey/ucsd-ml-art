@@ -72,6 +72,7 @@ We will have critique/group discussion for each of the projects this quarter.
 - Generative Systems in Art Overview
 - Survey of notable work in Art and ML
 
+
 **Lab 1: Get set up in our environment** (4/5/2019)
 - Hands-on with datahub.ucsd.edu, jupyter
 - Confirm everyone's logon works
