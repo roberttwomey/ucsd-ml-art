@@ -76,21 +76,31 @@ We will have critique/group discussion for each of the projects this quarter.
 **Lab 1: Get set up in our environment** (4/5/2019)
 - Hands-on with datahub.ucsd.edu, jupyter
 - Confirm everyone's logon works
+- Work through RNN text example.
 - Help? 
 
 ### Text Generation (Week 2)
+
+**Day 3: Generative Text** (4/8/2019)
+- [Project 1 Description](https://docs.google.com/document/d/13ueceIyuUc4ATD7B-SFZK641MycFZ57eZ9n1lQ3Y1CM/edit?usp=sharing)
+
 - Approaches to generative text
-  - RNNs (karpathy) (character level, world level)
-  - GPT, GPT-2
-  - others
+  - RNNs (karpathy) (character level)
 - Practical Issues
-  - Working with textual corpora
+  - Where to get a textual corpus. 
+  - Working with textual corpora (cleaning, parsing, etc.)
 - Outputs
   - Generative text (recipes, poetry, fiction, screenplays, etc…)
-  - Chatbots
+  - How to compose
 - Issues
   - Sense and non-sense with ML
   - Wilful suspension of disbelief
+
+**Day 4: Text part 2** (4/10/2019)
+- How to harness RNN creativity?
+- GPT, GPT-2
+- others
+- Chatbots
   - The eliza effect
 
 **Assign Project 1: Generative Text** Due Friday 4/19
@@ -137,6 +147,8 @@ We will have critique/group discussion for each of the projects this quarter.
 ## Projects
 
 ### Project 1: Generative Text
+
+[Project Description](https://docs.google.com/document/d/13ueceIyuUc4ATD7B-SFZK641MycFZ57eZ9n1lQ3Y1CM/edit?usp=sharing)
 
 ### Project 2: Sketching with ML
 
