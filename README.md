@@ -100,8 +100,7 @@ We will have critique/group discussion for each of the projects this quarter.
 - How to harness RNN creativity?
 - GPT, GPT-2
 - others
-- Chatbots
-  - The eliza effect
+- Chatbots (the eliza effect)
 
 **Assign Project 1: Generative Text** Due Friday 4/19
 
