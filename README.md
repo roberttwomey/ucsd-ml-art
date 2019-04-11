@@ -95,7 +95,7 @@ We will have critique/group discussion for each of the projects this quarter.
 **Assign Project 1: Generative Text** Due Thursday 4/18, 11:59pm. Details here [Project 1 prompt](https://docs.google.com/document/d/13ueceIyuUc4ATD7B-SFZK641MycFZ57eZ9n1lQ3Y1CM/edit?usp=sharing)
 
 **Day 4: Text part 2** (4/10/2019)
-- Lecture ([pdf])(https://drive.google.com/open?id=18tHG3m5e0SAwmwQcijLX1uP1Kljf2yQp)
+- Lecture ([pdf](https://drive.google.com/open?id=18tHG3m5e0SAwmwQcijLX1uP1Kljf2yQp))
 - How to harness RNN creativity?
 - GPT, GPT-2
 - others
