@@ -105,14 +105,26 @@ We will have critique/group discussion for each of the projects this quarter.
   - Wilful suspension of disbelief
 
 **Lab 2: Project Work Time**
+- Q&A about projects.
 
 ### Time Series in ML (Week 3)
-- Handwriting
-- Drawings (Sketch RNN)
+
+**Day 5: Autoencoders, Embeddings, Sketch-RNN** (4/15/2019)
+- Lecture 
+  - VAEs (MNIST VAE)
+  - Latent representations, Embeddings
+  - Modeling Drawings (Sketch-RNN)
+  - Handwriting
+
+**Day 6: Hands-On with VAE, Sketch-RNN** (4/17/2019)
+- In-class activities with VAE and Sketch-RNN code.
 
 **Assign Project 2: Sketching with ML**
 
-**Lab 3: Project 1 discussion**
+**Lab 3: Project 1 discussion** (4/19/2019)
+- Bring printed copy of your project and abstract. 
+- Discuss in small groups (20 minutes)
+- Present selected projects to class (50 minutes)
 
 ### Audio Processing (Week 4-5)
 - Music and ML discussion (MIDI, Performance RNN)
