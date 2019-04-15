@@ -112,7 +112,7 @@ We will have critique/group discussion for each of the projects this quarter.
 **Day 5: Autoencoders, Embeddings, Sketch-RNN** (4/15/2019)
 - Lecture 
   - VAEs (MNIST VAE)
-  - Latent representations, Embeddings
+  - Latent representation, Embeddings
   - Modeling Drawings (Sketch-RNN)
   - Handwriting
 
