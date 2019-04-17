@@ -58,7 +58,7 @@ We will have critique/group discussion for each of the projects this quarter.
 
 ## Code
 
-Code examples are here: https://github.com/roberttwomey/ml-art-class
+Code examples are here: [https://github.com/roberttwomey/ml-art-class](https://github.com/roberttwomey/ml-art-class)
 
 ## Schedule
 
