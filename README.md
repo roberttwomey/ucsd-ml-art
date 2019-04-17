@@ -63,7 +63,7 @@ Code examples are here: https://github.com/roberttwomey/ml-art-class
 ## Schedule
 
 ### Introduction to Art and ML (Week 1)
-**Day 1: Course and Syllabus** (4/1/2019)
+**Day 1: Course and Syllabus** 4/1/2019
 - Lecture ([pdf](https://drive.google.com/file/d/1EGI-bioemxFXJb5VfpVB5snLGBxX3fxr/view?usp=sharing))
   - Syllabus, policies, schedule
   - Projects
@@ -72,12 +72,12 @@ Code examples are here: https://github.com/roberttwomey/ml-art-class
 
 **Homework:** Sign up for slack and post something you are interested in (a project, paper, github link) to [#shiny](https://ece188-ml-art.slack.com/messages/CHJDGRV0X).
 
-**Day 2: Introduction to ML and the Arts** (4/3/2019)
+**Day 2: Introduction to ML and the Arts** 4/3/2019
 - Lecture ([pdf](https://drive.google.com/file/d/1b2xBi-2vZhW_hVo3UQJKU0MFyyoXpN9Z/view?usp=sharing))
   - Generative Systems in Art Overview
   - Survey of notable work in Art and ML
 
-**Lab 1: Get set up in our environment** (4/5/2019)
+**Lab 1: Get set up in our environment** 4/5/2019
 - Hands-on with datahub.ucsd.edu, jupyter
 - Confirm everyone's logon works
 - Work through RNN text example.
