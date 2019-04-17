@@ -2,7 +2,7 @@
 
 ![Image](ml_art2019.png)
 
-[Details](#details) | [Resources](#resources) | [Policies](#policies) | [Schedule](#schedule) | [Projects](#projects) | [CMU Collaboration](#cmu-collaboration) | [Accomodations](#accomodations) | [Diversity and Inclusion](#diversity-and-inclusion)
+[Details](#details) | [Resources](#resources) | [Policies](#policies) | [Code](#code) | [Schedule](#schedule) | [Projects](#projects) | [CMU Collaboration](#cmu-collaboration) | [Accomodations](#accomodations) | [Diversity and Inclusion](#diversity-and-inclusion)
 
 ## Course Description
 
@@ -55,6 +55,10 @@ This course will be a mix of group work and individual work depending on each as
 ### Project Critiques and Group Discussions
 
 We will have critique/group discussion for each of the projects this quarter.
+
+## Code
+
+Code examples are here: https://github.com/roberttwomey/ml-art-class
 
 ## Schedule
 
