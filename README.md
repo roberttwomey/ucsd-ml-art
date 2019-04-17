@@ -170,11 +170,9 @@ We will have critique/group discussion for each of the projects this quarter.
 
 ### Project 1: Generative Text
 
-[Project Description](https://docs.google.com/document/d/13ueceIyuUc4ATD7B-SFZK641MycFZ57eZ9n1lQ3Y1CM/edit?usp=sharing)
+[Project Description](https://docs.google.com/document/d/13ueceIyuUc4ATD7B-SFZK641MycFZ57eZ9n1lQ3Y1CM/edit?usp=sharing), due 4/18/2019, 11:59pm.
 
-Submit project to gihub classroom: https://classroom.github.com/a/F_S6X9eN
-
-Due 4/18/2019, 11:59pm
+Submit online to gihub classroom: https://classroom.github.com/a/F_S6X9eN
 
 ### Project 2: Sketching with ML
 
