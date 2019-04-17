@@ -85,7 +85,7 @@ Code examples are here: https://github.com/roberttwomey/ml-art-class
 
 ### Text Generation (Week 2)
 
-**Day 3: Generative Text** (4/8/2019)
+**Day 3: Generative Text** 4/8/2019
 - Lecture ([pdf](https://drive.google.com/file/d/1gAradJrMxGedBvziD_shmm-FUjbzd5mL/view?usp=sharing]))
   - Approaches to generative text
     - RNNs (karpathy) (character level)
@@ -95,10 +95,10 @@ Code examples are here: https://github.com/roberttwomey/ml-art-class
   - Outputs
     - Generative text (recipes, poetry, fiction, screenplays, etc…)
     - How to compose / harness RNN creativity?
-    
-**Assign Project 1: Generative Text** Due Thursday 4/18, 11:59pm. Details here [Project 1 prompt](https://docs.google.com/document/d/13ueceIyuUc4ATD7B-SFZK641MycFZ57eZ9n1lQ3Y1CM/edit?usp=sharing)
+- **Assign Project 1: Generative Text** 
+  - [Generative Text Assignment](https://docs.google.com/document/d/13ueceIyuUc4ATD7B-SFZK641MycFZ57eZ9n1lQ3Y1CM/edit?usp=sharing), due 4/18/2019, 11:59pm.
 
-**Day 4: Text part 2** (4/10/2019)
+**Day 4: Text part 2** 4/10/2019
 - Lecture ([pdf](https://drive.google.com/open?id=18tHG3m5e0SAwmwQcijLX1uP1Kljf2yQp))
   - Case Study: GPT, GPT-2
   - Chatbots (the eliza effect)
@@ -112,36 +112,39 @@ Code examples are here: https://github.com/roberttwomey/ml-art-class
 
 ### Time Series in ML (Week 3)
 
-**Day 5: Autoencoders, Embeddings, Sketch-RNN** (4/15/2019)
+**Day 5: Autoencoders, Embeddings, Sketch-RNN** 4/15/2019
 - Lecture 
   - VAEs (MNIST VAE)
   - Latent representation, Embeddings
   - Modeling Drawings (Sketch-RNN)
 
-**Day 6: Hands-On with VAE, Sketch-RNN** (4/17/2019)
+**Day 6: Hands-On with VAE, Sketch-RNN** 4/17/2019
 - In-class activities with VAE and Sketch-RNN code.
 - **Assign Project 2: Sketching with ML**
+  - [Sketching with ML Assignment](https://docs.google.com/document/d/1o_Ii4Eo3KDxq7Nw84_dLoFqes-ouDp2C--f6zMmixxk/edit?usp=sharing), due 4/25/2019, 11:59pm.
 
-**PROJECT 1 DUE** (4/18/2019, 11:59pm)
+**Project 1 Due** 4/18/2019, 11:59pm.
 - Submit assignment to github classroom here: https://classroom.github.com/a/F_S6X9eN
 
-**Lab 3: Project 1 discussion** (4/19/2019)
+**Lab 3: Project 1 discussion** 4/19/2019
 - Bring printed copy of your project and abstract. 
 - Discuss in small groups (20 minutes)
 - Present selected projects to class (50 minutes)
 
 ### Generative Audio (Week 4)
 
-**Day 7: Handwriting** (4/22/2019)
+**Day 7: Handwriting** 4/22/2019
 - Mixture Density Networks (MDNs)
 - Alex Graves sequence paper, generative handwriting models
 
-**Day 8: Generative Audio** (4/24/2019)
+**Day 8: Generative Audio** 4/24/2019
 - MusicVAE
 - Music and ML discussion (MIDI, Performance RNN)
 - Music Generation (Magenta)
 
-**Lab 3: Project 2 Work Time**
+**Project 1 Due:** 4/25/2019, 11:59pm.
+
+**Lab 3: Project 2 Discussion**
 
 ### Audio Continued (Week 5)
 - Simple audio recognition
@@ -174,11 +177,15 @@ Code examples are here: https://github.com/roberttwomey/ml-art-class
 
 ### Project 1: Generative Text
 
-[Project Description](https://docs.google.com/document/d/13ueceIyuUc4ATD7B-SFZK641MycFZ57eZ9n1lQ3Y1CM/edit?usp=sharing), due 4/18/2019, 11:59pm.
+[Generative Text Assignment](https://docs.google.com/document/d/13ueceIyuUc4ATD7B-SFZK641MycFZ57eZ9n1lQ3Y1CM/edit?usp=sharing), due 4/18/2019, 11:59pm.
 
-Submit online to gihub classroom: https://classroom.github.com/a/F_S6X9eN
+Submit online to github classroom: https://classroom.github.com/a/F_S6X9eN
 
 ### Project 2: Sketching with ML
+
+[Sketching with ML Assignment](https://docs.google.com/document/d/1o_Ii4Eo3KDxq7Nw84_dLoFqes-ouDp2C--f6zMmixxk/edit?usp=sharing), due 4/25/2019, 11:59pm.
+
+Submit online to github classroom: (link to come)
 
 ### Project 3: Generative Audio
 
