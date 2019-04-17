@@ -98,6 +98,7 @@ We will have critique/group discussion for each of the projects this quarter.
 - Lecture ([pdf](https://drive.google.com/open?id=18tHG3m5e0SAwmwQcijLX1uP1Kljf2yQp))
   - Case Study: GPT, GPT-2
   - Chatbots (the eliza effect)
+    - seq2seq models
   - Issues
     - Sense and non-sense with ML
     - Wilful suspension of disbelief
