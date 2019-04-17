@@ -119,6 +119,7 @@ Code examples are here: [https://github.com/roberttwomey/ml-art-class](https://g
   - Modeling Drawings (Sketch-RNN)
 
 **Day 6: Hands-On with VAE, Sketch-RNN** 4/17/2019
+- Talk about how to submit project 1.
 - In-class activities with VAE and Sketch-RNN code.
 - Clone the code repository into your datahub: ```git clone https://github.com/roberttwomey/ml-art-class```
 - Work through:
