@@ -90,21 +90,19 @@ We will have critique/group discussion for each of the projects this quarter.
     - Working with textual corpora (cleaning, parsing, etc.)
   - Outputs
     - Generative text (recipes, poetry, fiction, screenplays, etc…)
-    - How to compose
+    - How to compose / harness RNN creativity?
     
 **Assign Project 1: Generative Text** Due Thursday 4/18, 11:59pm. Details here [Project 1 prompt](https://docs.google.com/document/d/13ueceIyuUc4ATD7B-SFZK641MycFZ57eZ9n1lQ3Y1CM/edit?usp=sharing)
 
 **Day 4: Text part 2** (4/10/2019)
 - Lecture ([pdf](https://drive.google.com/open?id=18tHG3m5e0SAwmwQcijLX1uP1Kljf2yQp))
-- How to harness RNN creativity?
-- GPT, GPT-2
-- others
-- Chatbots (the eliza effect)
-- Issues
-  - Sense and non-sense with ML
-  - Wilful suspension of disbelief
+  - Case Study: GPT, GPT-2
+  - Chatbots (the eliza effect)
+  - Issues
+    - Sense and non-sense with ML
+    - Wilful suspension of disbelief
 
-**Lab 2: Project Work Time**
+**Lab 2: Project 1 Work Time**
 - Q&A about projects.
 
 ### Time Series in ML (Week 3)
@@ -114,28 +112,40 @@ We will have critique/group discussion for each of the projects this quarter.
   - VAEs (MNIST VAE)
   - Latent representation, Embeddings
   - Modeling Drawings (Sketch-RNN)
-  - Handwriting
 
 **Day 6: Hands-On with VAE, Sketch-RNN** (4/17/2019)
 - In-class activities with VAE and Sketch-RNN code.
+- **Assign Project 2: Sketching with ML**
 
-**Assign Project 2: Sketching with ML**
+**PROJECT 1 DUE** (4/18/2019, 11:59pm)
+- Submit assignment to github classroom here: https://classroom.github.com/a/F_S6X9eN
 
 **Lab 3: Project 1 discussion** (4/19/2019)
 - Bring printed copy of your project and abstract. 
 - Discuss in small groups (20 minutes)
 - Present selected projects to class (50 minutes)
 
-### Audio Processing (Week 4-5)
+### Generative Audio (Week 4)
+
+**Day 7: Handwriting** (4/22/2019)
+- Mixture Density Networks (MDNs)
+- Alex Graves sequence paper, generative handwriting models
+
+**Day 8: Generative Audio** (4/24/2019)
+- MusicVAE
 - Music and ML discussion (MIDI, Performance RNN)
+- Music Generation (Magenta)
+
+**Lab 3: Project 2 Work Time**
+
+### Audio Continued (Week 5)
 - Simple audio recognition
 - Music and audio analysis (librosa)
-- Music Generation (Magenta)
 - Text to speech
 
 **Assign Project 3: Generative Audio**
 
-### Visual Systems (Week 6-7)
+### Visual Systems (Week 7-8)
 - Image segmentation, recognition, Captioning (MS-COCO)
 - Pix2pix
 - Faces: recognition, pose estimation, 3d reconstruction (deepfakes)
