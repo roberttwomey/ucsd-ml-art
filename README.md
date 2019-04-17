@@ -113,7 +113,7 @@ Code examples are here: [https://github.com/roberttwomey/ml-art-class](https://g
 ### Time Series in ML (Week 3)
 
 **Day 5: Autoencoders, Embeddings, Sketch-RNN** 4/15/2019
-- Lecture 
+- Lecture ([pdf](https://drive.google.com/file/d/1dCcupN7yN-q3j0UqezO4k0jal60tUEXI/view?usp=sharing))
   - VAEs (MNIST VAE)
   - Latent representation, Embeddings
   - Modeling Drawings (Sketch-RNN)
