@@ -120,6 +120,12 @@ Code examples are here: [https://github.com/roberttwomey/ml-art-class](https://g
 
 **Day 6: Hands-On with VAE, Sketch-RNN** 4/17/2019
 - In-class activities with VAE and Sketch-RNN code.
+- Clone the code repository into your datahub: '''git clone https://github.com/roberttwomey/ml-art-class'''
+- Work through:
+  - 01_mnist_vae.ipynb
+  - 02_sketch_rnn.ipynb
+  - Start training a sketch-rnn model on google colab
+  
 - **Assign Project 2: Sketching with ML**
   - [Sketching with ML Assignment](https://docs.google.com/document/d/1o_Ii4Eo3KDxq7Nw84_dLoFqes-ouDp2C--f6zMmixxk/edit?usp=sharing), due 4/25/2019, 11:59pm.
 
