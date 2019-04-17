@@ -120,7 +120,7 @@ Code examples are here: [https://github.com/roberttwomey/ml-art-class](https://g
 
 **Day 6: Hands-On with VAE, Sketch-RNN** 4/17/2019
 - In-class activities with VAE and Sketch-RNN code.
-- Clone the code repository into your datahub: '''git clone https://github.com/roberttwomey/ml-art-class'''
+- Clone the code repository into your datahub: ```git clone https://github.com/roberttwomey/ml-art-class```
 - Work through:
   - 01_mnist_vae.ipynb
   - 02_sketch_rnn.ipynb
