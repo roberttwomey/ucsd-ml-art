@@ -138,7 +138,7 @@ Code examples are here: [https://github.com/roberttwomey/ml-art-class](https://g
 - Discuss in small groups (20 minutes)
 - Present selected projects to class (50 minutes)
 
-### Generative Audio (Week 4)
+### Drawing cont., Generative Audio (Week 4)
 
 **Day 7: Handwriting** 4/22/2019
 - Mixture Density Networks (MDNs)
@@ -149,7 +149,7 @@ Code examples are here: [https://github.com/roberttwomey/ml-art-class](https://g
 - Music and ML discussion (MIDI, Performance RNN)
 - Music Generation (Magenta)
 
-**Project 1 Due:** 4/25/2019, 11:59pm.
+**Project 1 Due:** 5/2/2019, 11:59pm.
 
 **Lab 3: Project 2 Discussion**
 
@@ -190,7 +190,7 @@ Submit online to github classroom: https://classroom.github.com/a/F_S6X9eN
 
 ### Project 2: Sketching with ML
 
-[Sketching with ML Assignment](https://docs.google.com/document/d/1o_Ii4Eo3KDxq7Nw84_dLoFqes-ouDp2C--f6zMmixxk/edit?usp=sharing), due 4/25/2019, 11:59pm.
+[Sketching with ML Assignment](https://docs.google.com/document/d/1o_Ii4Eo3KDxq7Nw84_dLoFqes-ouDp2C--f6zMmixxk/edit?usp=sharing), due 5/2/2019, 11:59pm.
 
 Submit online to github classroom: (link to come)
 
