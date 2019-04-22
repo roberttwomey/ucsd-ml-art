@@ -141,6 +141,7 @@ Code examples are here: [https://github.com/roberttwomey/ml-art-class](https://g
 ### Drawing cont., Generative Audio (Week 4)
 
 **Day 7: Handwriting** 4/22/2019
+- Lecture ([pdf](https://drive.google.com/open?id=1tP3scRbhAYsCq0IIuQIYKoos1uyUd1Ml))
 - Mixture Density Networks (MDNs)
 - Alex Graves sequence paper, generative handwriting models
 
