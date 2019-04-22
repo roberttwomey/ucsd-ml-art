@@ -128,7 +128,7 @@ Code examples are here: [https://github.com/roberttwomey/ml-art-class](https://g
   - Start training a sketch-rnn model on google colab
   
 - **Assign Project 2: Sketching with ML**
-  - [Sketching with ML Assignment](https://docs.google.com/document/d/1o_Ii4Eo3KDxq7Nw84_dLoFqes-ouDp2C--f6zMmixxk/edit?usp=sharing), due 4/25/2019, 11:59pm.
+  - [Sketching with ML Assignment](https://docs.google.com/document/d/1o_Ii4Eo3KDxq7Nw84_dLoFqes-ouDp2C--f6zMmixxk/edit?usp=sharing), due 5/2/2019, 11:59pm.
 
 **Project 1 Due** 4/18/2019, 11:59pm.
 - Submit assignment to github classroom here: [https://classroom.github.com/a/F_S6X9eN](https://classroom.github.com/a/F_S6X9eN)
