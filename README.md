@@ -146,20 +146,30 @@ Code examples are here: [https://github.com/roberttwomey/ml-art-class](https://g
 - Alex Graves sequence paper, generative handwriting models
 
 **Day 8: Generative Audio** 4/24/2019
-- MusicVAE
-- Music and ML discussion (MIDI, Performance RNN)
-- Music Generation (Magenta)
+- History of generative music
+- Hands-on with contemporary music generators
 
-**Project 1 Due:** 5/2/2019, 11:59pm.
-
-**Lab 3: Project 2 Discussion**
+**Lab 3: Project 2 Work** 4/26/2019
 
 ### Audio Continued (Week 5)
-- Simple audio recognition
-- Music and audio analysis (librosa)
-- Text to speech
 
-**Assign Project 3: Generative Audio**
+
+**Day 9: Generative Networks for Music** 4/29/2019
+- Lecture
+  - MusicVAE
+  - Music and ML discussion (MIDI, Performance RNN)
+  - Music Generation (Magenta)
+  -**Assign Project 3:** Generative Audio
+
+**Day 10: Speech Generation (and recognition)** 5/1/2019
+- Lecture
+  - Simple audio recognition
+  - Music and audio analysis (librosa)
+  - Text to speech
+  
+**Project 2 Due:** 5/2/2019, 11:59pm.
+
+**Lab 4: Project 2 Discussion** 5/3/2019
 
 ### Visual Systems (Week 7-8)
 - Image segmentation, recognition, Captioning (MS-COCO)
