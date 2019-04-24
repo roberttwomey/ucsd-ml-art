@@ -146,7 +146,7 @@ Code examples are here: [https://github.com/roberttwomey/ml-art-class](https://g
 - Alex Graves sequence paper, generative handwriting models
 
 **Day 8: Generative Audio** 4/24/2019
-- History of generative music
+- History of generative music ([pdf](https://drive.google.com/file/d/1p2XcGHwQRyP8AjsHKk8JDNXHWJFkVU0y/view?usp=sharing)]
 - Hands-on with contemporary music generators
   - NSynth: [blog](https://magenta.tensorflow.org/nsynth), [interactive example](https://experiments.withgoogle.com/ai/sound-maker/view/)
   - MusicVAE: [blog](https://magenta.tensorflow.org/music-vae), [interactive example](https://magenta.tensorflow.org/multitrack)
