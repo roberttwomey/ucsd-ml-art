@@ -159,7 +159,7 @@ Code examples are here: [https://github.com/roberttwomey/ml-art-class](https://g
   - MusicVAE
   - Music and ML discussion (MIDI, Performance RNN)
   - Music Generation (Magenta)
-  -**Assign Project 3:** Generative Audio
+  - **Assign Project 3:** Generative Audio
 
 **Day 10: Speech Generation (and recognition)** 5/1/2019
 - Lecture
