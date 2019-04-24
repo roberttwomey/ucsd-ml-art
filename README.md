@@ -161,9 +161,9 @@ Code examples are here: [https://github.com/roberttwomey/ml-art-class](https://g
   - Music Generation (Magenta)
   - **Assign Project 3:** Generative Audio
 
-**Day 10: Speech Generation (and recognition)** 5/1/2019
+**Day 10: Speech Generation** 5/1/2019
 - Lecture
-  - Simple audio recognition
+  - Text to Speech (Tacotron, WaveGlow)
   - Music and audio analysis (librosa)
   - Text to speech
   
