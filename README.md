@@ -171,7 +171,7 @@ Code examples are here: [https://github.com/roberttwomey/ml-art-class](https://g
 
 **Lab 4: Project 2 Discussion** 5/3/2019
 
-### Visual Systems (Week 7-8)
+### Visual Systems (Week 6-8)
 - Image segmentation, recognition, Captioning (MS-COCO)
 - Pix2pix
 - Faces: recognition, pose estimation, 3d reconstruction (deepfakes)
