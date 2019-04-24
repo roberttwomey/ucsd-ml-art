@@ -163,21 +163,21 @@ Code examples are here: [https://github.com/roberttwomey/ml-art-class](https://g
 
 **Day 10: Speech Generation** 5/1/2019
 - Lecture
-  - Text to Speech (Tacotron, WaveGlow)
-  - Music and audio analysis (librosa)
-  - Text to speech
+  - Text to Speech 
+  - Vocoders, Unit Selection
+  - ML(Tacotron, WaveGlow)
+  - Art with Speech Synthesis
   
 **Project 2 Due:** 5/2/2019, 11:59pm.
 
 **Lab 4: Project 2 Discussion** 5/3/2019
 
 ### Visual Systems (Week 6-8)
-- Image segmentation, recognition, Captioning (MS-COCO)
-- Pix2pix
+- Deep Dream, Convolutional Neural Networks
+- Image Recognition, Semantic Segmentation, Captioning (MS-COCO)
+- Pix2pix Models
 - Faces: recognition, pose estimation, 3d reconstruction (deepfakes)
-- Unsupervised learning
 - Generative Adversarial Networks (GANs)
-- Variational Auto-Encoders (VAEs)
 - Pixel RNN
 
 **Assign Project 4: Generative Visual**
