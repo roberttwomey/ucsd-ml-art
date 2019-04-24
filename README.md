@@ -148,6 +148,12 @@ Code examples are here: [https://github.com/roberttwomey/ml-art-class](https://g
 **Day 8: Generative Audio** 4/24/2019
 - History of generative music
 - Hands-on with contemporary music generators
+  - NSynth: [blog](https://magenta.tensorflow.org/nsynth), [interactive example](https://experiments.withgoogle.com/ai/sound-maker/view/)
+  - MusicVAE: [blog](https://magenta.tensorflow.org/music-vae), [interactive example](https://magenta.tensorflow.org/multitrack)
+  - PerformanceRNN: [blog](https://magenta.tensorflow.org/performance-rnn), [interactive example](https://magenta.tensorflow.org/performance-rnn-browser)
+  - GANSynth: [blog](https://magenta.tensorflow.org/gansynth), [interactive colab example](https://colab.research.google.com/notebooks/magenta/gansynth/gansynth_demo.ipynb)
+  - Music Transformer: [blog](https://magenta.tensorflow.org/music-transformer)
+
 
 **Lab 3: Project 2 Work** 4/26/2019
 
