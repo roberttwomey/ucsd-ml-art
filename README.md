@@ -161,11 +161,11 @@ Code examples are here: [https://github.com/roberttwomey/ml-art-code](https://gi
 
 
 **Day 9: Generative Networks for Music** 4/29/2019
-- Lecture
+- Hands on with ML Music:
+  - NSynth: (ipython notebook) [blog](https://magenta.tensorflow.org/nsynth-fastgen)
   - MusicVAE
   - Music and ML discussion (MIDI, Performance RNN)
   - Music Generation (Magenta)
-  - **Assign Project 3:** Generative Audio
 
 **Day 10: Speech Generation** 5/1/2019
 - Lecture
@@ -173,6 +173,8 @@ Code examples are here: [https://github.com/roberttwomey/ml-art-code](https://gi
   - Vocoders, Unit Selection
   - ML(Tacotron, WaveGlow)
   - Art with Speech Synthesis
+- **Assign Project 3:** Generative Audio
+
   
 **Project 2 Due:** 5/2/2019, 11:59pm.
 
