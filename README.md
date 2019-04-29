@@ -159,14 +159,16 @@ Code examples are here: [https://github.com/roberttwomey/ml-art-code](https://gi
 
 ### Audio Continued (Week 5)
 
-
 **Day 9: Generative Networks for Music** 4/29/2019
 - Hands on with ML Music:
-  - NSynth: (ipython notebook) [blog](https://magenta.tensorflow.org/nsynth-fastgen)
-  - MusicVAE
-  - Music and ML discussion (MIDI, Performance RNN)
-  - Music Generation (Magenta)
-
+  - In small groups, work through these examples from the code repository:
+  - Covering:
+    - sequence generation
+    - seeding sequences
+    - sequence interpolation
+    - direct sound synthesis
+    - sound latent-space interpolation.
+  
 **Day 10: Speech Generation** 5/1/2019
 - Lecture
   - Text to Speech 
