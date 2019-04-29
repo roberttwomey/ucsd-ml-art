@@ -161,7 +161,7 @@ Code examples are here: [https://github.com/roberttwomey/ml-art-code](https://gi
 
 **Day 9: Generative Networks for Music** 4/29/2019
 - Hands on with ML Music:
-  - In small groups, work through these examples from the code repository: https://github.com/roberttwomey/ml-art-code/blob/master/week5/01_Activities.ipynb
+  - In small groups, work through these examples from the code repository (divide, conquer, and share!): https://github.com/roberttwomey/ml-art-code/blob/master/week5/01_Activities.ipynb
   - Covering:
     - sequence generation
     - seeding sequences
