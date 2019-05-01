@@ -179,7 +179,7 @@ Code examples are here: [https://github.com/roberttwomey/ml-art-code](https://gi
 - **Assign Project 3:** Generative Audio
 
   
-**Project 2 Due:** 5/2/2019, 11:59pm.
+**Project 2 Due:** 5/2/2019, 11:59pm. Submit online to github classroom: [https://classroom.github.com/a/gP_-KCrL](https://classroom.github.com/a/gP_-KCrL)
 
 **Lab 4: Project 2 Discussion** 5/3/2019
 
