@@ -214,7 +214,7 @@ Submit online to github classroom: https://classroom.github.com/a/F_S6X9eN
 
 [Sketching with ML Assignment](https://docs.google.com/document/d/1o_Ii4Eo3KDxq7Nw84_dLoFqes-ouDp2C--f6zMmixxk/edit?usp=sharing), due 5/2/2019, 11:59pm.
 
-Submit online to github classroom: (link to come)
+Submit online to github classroom: https://classroom.github.com/a/gP_-KCrL
 
 ### Project 3: Generative Audio
 
