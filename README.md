@@ -65,6 +65,7 @@ Code examples are here: [https://github.com/roberttwomey/ml-art-code](https://gi
 We do our processing on datahub.ucsd.edu. Here is their instruction manual:
 - quick instructions https://blink.ucsd.edu/faculty/instruction/tech-guide/dsmlp/index.html#Independent-Study,-Student-Rese
 - detailed instructions https://docs.google.com/document/u/1/d/e/2PACX-1vR-tC1oL6J9RJxSP42iWr8BukgRO9ohcybFXPn95yjQQLvv4iNP5Tlbzx06rQtPA-fLex2N_MVjzgAR/pub?embedded=true#h.lyhc4mlbki3f
+- making custom Docker containers to run on dsmlp https://docs.google.com/document/d/1LPfqHvk2Itm_ckafrxRVxXQdr5BSozjsv_TURQDj9x8/edit
 
 ## Schedule
 
