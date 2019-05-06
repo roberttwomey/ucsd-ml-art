@@ -189,7 +189,7 @@ sick day
 
 **Lab 4: Project 2 Discussion** 5/3/2019
 
-### Audio, then Visual Systems (Week 6)
+### Audio, then Visual Processing (Week 6)
 
 **Day 11: Speech Generation** 5/6/2019
 - Lecture
@@ -199,7 +199,7 @@ sick day
   - ML(Tacotron, WaveGlow)
 - **Assign Project 3:** Generative Audio. [Project prompt](https://docs.google.com/document/d/17ZUUWZr7jIhGKwxe_Rj8DlAA6yyrd2YRls66fZOuQK0/edit?usp=sharing). Due Thursday 5/16, 11:59pm.
 
-**Day 12: Visual Systems** 5/8/2019
+**Day 12: Visual Processing** 5/8/2019
 
 - Deep Dream, Convolutional Neural Networks
 - Image Recognition, Semantic Segmentation, Captioning (MS-COCO)
