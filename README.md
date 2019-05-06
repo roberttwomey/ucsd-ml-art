@@ -183,20 +183,35 @@ We do our processing on datahub.ucsd.edu. Here is their instruction manual:
   - Vocoders, Unit Selection
   - ML(Tacotron, WaveGlow)
   - Art with Speech Synthesis
-- **Assign Project 3:** Generative Audio
+- **Assign Project 3:** Generative Audio. [Project writeup](https://docs.google.com/document/d/17ZUUWZr7jIhGKwxe_Rj8DlAA6yyrd2YRls66fZOuQK0/edit?usp=sharing)
 
-  
+
 **Project 2 Due:** 5/2/2019, 11:59pm. Submit online to github classroom: [https://classroom.github.com/a/gP_-KCrL](https://classroom.github.com/a/gP_-KCrL)
 
 **Lab 4: Project 2 Discussion** 5/3/2019
 
-### Visual Systems (Week 6-8)
+### Audio, then Visual Systems (Week 6)
+
+**Day 11: Speech Generation** 5/6/2019
+- Lecture
+  - Text to Speech 
+  - Vocoders, Unit Selection
+  - Art with Speech Synthesis
+  - ML(Tacotron, WaveGlow)
+- **Assign Project 3:** Generative Audio. [Project prompt](https://docs.google.com/document/d/17ZUUWZr7jIhGKwxe_Rj8DlAA6yyrd2YRls66fZOuQK0/edit?usp=sharing). Due Thursday 5/16, 11:59pm.
+
+**Day 12: Visual Systems** 5/8/2019
+
 - Deep Dream, Convolutional Neural Networks
 - Image Recognition, Semantic Segmentation, Captioning (MS-COCO)
 - Pix2pix Models
 - Faces: recognition, pose estimation, 3d reconstruction (deepfakes)
-- Generative Adversarial Networks (GANs)
 - Pixel RNN
+
+### Visual Continued (Week 7)
+
+### Visual Continued (Week 8)
+- Generative Adversarial Networks (GANs)
 
 **Assign Project 4: Generative Visual**
 
@@ -224,6 +239,8 @@ Submit online to github classroom: https://classroom.github.com/a/F_S6X9eN
 Submit online to github classroom: https://classroom.github.com/a/gP_-KCrL
 
 ### Project 3: Generative Audio
+
+[Generative Audio Assignment](https://docs.google.com/document/d/17ZUUWZr7jIhGKwxe_Rj8DlAA6yyrd2YRls66fZOuQK0/edit?usp=sharing), due 5/16/2019, 11:59pm. 
 
 ### Project 4: Generative Visual
 
