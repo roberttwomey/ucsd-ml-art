@@ -209,12 +209,16 @@ sick day
 
 ### Visual Continued (Week 7)
 
+**Assign Project 4: Generative Visual**
+
 ### Visual Continued (Week 8)
 - Generative Adversarial Networks (GANs)
 
-**Assign Project 4: Generative Visual**
+### Visual (Week 9)
 
-### Final Project Development (Week 9-10)
+**Project 4 due**
+
+### Final Project Development (Week 10)
 
 **Lecture: Alternate Platforms**
 - TPUs
@@ -222,6 +226,8 @@ sick day
 - Tools (DNNWeaver)
 
 ### Final Presentations / Exhibition (Finals Week)
+
+**Final Work due for Exhibition**
 
 ## Projects
 
