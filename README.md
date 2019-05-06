@@ -169,7 +169,7 @@ We do our processing on datahub.ucsd.edu. Here is their instruction manual:
 **Day 9: Generative Networks for Music** 4/29/2019
 - Check in on any last minute questions for Project 2
 - Hands on with ML Music:
-  - In small groups, work through these examples from the code repository (divide, conquer, and share!): https://github.com/roberttwomey/ml-art-code/blob/master/week5/01_Activities.ipynb
+  - In small groups, work through these examples from the code repository (divide, conquer, and share!): [https://github.com/roberttwomey/ml-art-code/blob/master/week5/01_Activities.ipynb](https://github.com/roberttwomey/ml-art-code/blob/master/week5/01_Activities.ipynb)
   - Covering:
     - sequence generation
     - seeding sequences
