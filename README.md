@@ -178,7 +178,7 @@ We do our processing on datahub.ucsd.edu. Here is their instruction manual:
     - sound latent-space interpolation.
   
 **Day 10: Speech Generation** 5/1/2019
-- Lecture
+- Lecture ([pdf](https://drive.google.com/open?id=16QJAIrvSbBC20vO0Ej-cYgS4l06qOrG9))
   - Text to Speech 
   - Vocoders, Unit Selection
   - ML(Tacotron, WaveGlow)
