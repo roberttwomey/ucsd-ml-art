@@ -177,12 +177,11 @@ We do our processing on datahub.ucsd.edu. Here is their instruction manual:
     - direct sound synthesis
     - sound latent-space interpolation.
   
-**Day 10: Speech Generation** 5/1/2019
-- Lecture ([pdf](https://drive.google.com/open?id=16QJAIrvSbBC20vO0Ej-cYgS4l06qOrG9))
-  - Text to Speech 
-  - Vocoders, Unit Selection
-  - ML(Tacotron, WaveGlow)
-  - Art with Speech Synthesis
+**Day 10: class cancelled** 5/1/2019
+
+sick day
+
+
 - **Assign Project 3:** Generative Audio. [Project writeup](https://docs.google.com/document/d/17ZUUWZr7jIhGKwxe_Rj8DlAA6yyrd2YRls66fZOuQK0/edit?usp=sharing)
 
 
