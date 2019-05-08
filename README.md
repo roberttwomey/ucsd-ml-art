@@ -201,19 +201,29 @@ sick day
 
 **Day 12: Visual Processing** 5/8/2019
 
-- Lecture: CNNs and Visual Processing.
+- Lecture: CNNs and Neural Style ([pdf](https://drive.google.com/open?id=1xkmIjQVpJuwycVysKX71TMZ6iToADQ5B))
+  - CNNs vs other NNs. 
+    - LeNet
+    - VGG16, VGG19
+  - A Neural Algorithm of Style.
+  - Neural Style Transfer
+- Hands on activities: [https://github.com/roberttwomey/ml-art-code/tree/master/week6_cnn
+](https://github.com/roberttwomey/ml-art-code/tree/master/week6_cnn
+)
 
 ### Visual Continued (Week 7)
 
 **Day 13: Visual Processing, Continued** 5/13/2019
 
-- Deep Dream, Convolutional Neural Networks
+- More style transfer
+- Visualizing other CNNs
+- Deep Dream
+
+**Day 14: Recognition** 5/15/2019
 - Image Recognition, Semantic Segmentation, Captioning (MS-COCO)
 - Pix2pix Models
 - Faces: recognition, pose estimation, 3d reconstruction (deepfakes)
 - Pixel RNN
-
-
 
 **Assign Project 4: Generative Visual**
 
