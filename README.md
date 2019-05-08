@@ -153,7 +153,7 @@ We do our processing on datahub.ucsd.edu. Here is their instruction manual:
 - Alex Graves sequence paper, generative handwriting models
 
 **Day 8: Generative Audio** 4/24/2019
-- History of generative music ([pdf](https://drive.google.com/file/d/1p2XcGHwQRyP8AjsHKk8JDNXHWJFkVU0y/view?usp=sharing)]
+- Lecture: History of generative music ([pdf](https://drive.google.com/file/d/1p2XcGHwQRyP8AjsHKk8JDNXHWJFkVU0y/view?usp=sharing)]
 - Hands-on with contemporary music generators
   - NSynth: [blog](https://magenta.tensorflow.org/nsynth), [interactive example](https://experiments.withgoogle.com/ai/sound-maker/view/)
   - MusicVAE: [blog](https://magenta.tensorflow.org/music-vae), [interactive example](https://magenta.tensorflow.org/multitrack)
@@ -192,7 +192,7 @@ sick day
 ### Audio, then Visual Processing (Week 6)
 
 **Day 11: Speech Generation** 5/6/2019
-- Lecture
+- Lecture ([pdf](https://drive.google.com/file/d/16QJAIrvSbBC20vO0Ej-cYgS4l06qOrG9/view?usp=sharing))
   - Text to Speech 
   - Vocoders, Unit Selection
   - Art with Speech Synthesis
@@ -201,13 +201,19 @@ sick day
 
 **Day 12: Visual Processing** 5/8/2019
 
+- Lecture: CNNs and Visual Processing.
+
+### Visual Continued (Week 7)
+
+**Day 13: Visual Processing, Continued** 5/13/2019
+
 - Deep Dream, Convolutional Neural Networks
 - Image Recognition, Semantic Segmentation, Captioning (MS-COCO)
 - Pix2pix Models
 - Faces: recognition, pose estimation, 3d reconstruction (deepfakes)
 - Pixel RNN
 
-### Visual Continued (Week 7)
+
 
 **Assign Project 4: Generative Visual**
 
