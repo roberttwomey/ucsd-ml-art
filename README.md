@@ -217,7 +217,7 @@ sick day
 - Work day on project 3
 
 **Day 14: Style Transfer, Continued** 5/15/2019
-- Lecture: 
+- Lecture: [pdf](https://drive.google.com/open?id=1nbHklxFSKjIdz6EUnS3KU776mUmnAi3x)
   - Fast Style Transfer
   - Arbitrary Style Transfer
   - Deep Photo Stylization
