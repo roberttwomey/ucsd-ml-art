@@ -214,7 +214,7 @@ sick day
 ### Visual Continued (Week 7)
 
 **Day 13: Work Day** 5/13/2019
-- Work day on project 2
+- Work day on project 3
 
 **Day 14: Style Transfer, Continued** 5/15/2019
 - Lecture: 
