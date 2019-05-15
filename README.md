@@ -221,9 +221,9 @@ sick day
   - Fast Style Transfer
   - Arbitrary Style Transfer
   - Deep Photo Stylization
-  - Mainstream/appified applications
+  - Popular applications
 
-**Project 2 Due:** 5/16/2019 at 11:59pm. 
+**Project 3 Due:** 5/16/2019 at 11:59pm. 
 
 Submit online to github classroom: [https://classroom.github.com/a/JPtQMEm9](https://classroom.github.com/a/JPtQMEm9)
 
@@ -244,13 +244,16 @@ Submit online to github classroom: [https://classroom.github.com/a/JPtQMEm9](htt
 
 ### Visual (Week 9)
 
-**Day 17: Recognition** 5/27/2019
-- Image Recognition, Semantic Segmentation, Captioning (MS-COCO)
-- Pix2pix Models
-- Faces: recognition, pose estimation, 3d reconstruction (deepfakes)
+**Day 17: Pix2pix** 5/27/20119
+- Pix2pix models
 - Pixel RNN
-- Generative Adversarial Networks (GANs)
+- Neural Doodle
 
+**Day 18: Recognition** 5/29/2019
+- Image Recognition
+- Semantic Segmentation
+- Captioning (MS-COCO)
+- Faces: recognition, pose estimation, 3d reconstruction (deepfakes)
 
 **Project 4 due** 5/30/2019
 
