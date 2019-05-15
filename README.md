@@ -213,26 +213,46 @@ sick day
 
 ### Visual Continued (Week 7)
 
-**Day 13: Visual Processing, Continued** 5/13/2019
+**Day 13: Work Day** 5/13/2019
+- Work day on project 2
 
-- More style transfer
-- Visualizing other CNNs
-- Deep Dream
+**Day 14: Style Transfer, Continued** 5/15/2019
+- Lecture: 
+  - Fast Style Transfer
+  - Arbitrary Style Transfer
+  - Deep Photo Stylization
+  - Mainstream/appified applications
 
-**Day 14: Recognition** 5/15/2019
+**Project 2 Due:** 5/16/2019 at 11:59pm. 
+
+Submit online to github classroom: [https://classroom.github.com/a/JPtQMEm9](https://classroom.github.com/a/JPtQMEm9)
+
+- Critique on Friday from 12:30-1:30. 
+
+
+### Visual Continued (Week 8)
+
+**Day 15: Deep Dream and Gradient Ascent** 5/20/2019
+- Lecture:
+  - Visualizing other CNNs
+  - Deep Dream
+  - Gradient Ascent, maximal activation/excitation
+
+**Assign Project 4: Generative Visual**
+
+**Day 16: GANs** 5/22/2019
+
+### Visual (Week 9)
+
+**Day 17: Recognition** 5/27/2019
 - Image Recognition, Semantic Segmentation, Captioning (MS-COCO)
 - Pix2pix Models
 - Faces: recognition, pose estimation, 3d reconstruction (deepfakes)
 - Pixel RNN
-
-**Assign Project 4: Generative Visual**
-
-### Visual Continued (Week 8)
 - Generative Adversarial Networks (GANs)
 
-### Visual (Week 9)
 
-**Project 4 due**
+**Project 4 due** 5/30/2019
 
 ### Final Project Development (Week 10)
 
@@ -251,17 +271,19 @@ sick day
 
 [Generative Text Assignment](https://docs.google.com/document/d/13ueceIyuUc4ATD7B-SFZK641MycFZ57eZ9n1lQ3Y1CM/edit?usp=sharing), due 4/18/2019, 11:59pm.
 
-Submit online to github classroom: https://classroom.github.com/a/F_S6X9eN
+Submit online to github classroom: [https://classroom.github.com/a/F_S6X9eN](https://classroom.github.com/a/F_S6X9eN)
 
 ### Project 2: Sketching with ML
 
 [Sketching with ML Assignment](https://docs.google.com/document/d/1o_Ii4Eo3KDxq7Nw84_dLoFqes-ouDp2C--f6zMmixxk/edit?usp=sharing), due 5/2/2019, 11:59pm.
 
-Submit online to github classroom: https://classroom.github.com/a/gP_-KCrL
+Submit online to github classroom: [https://classroom.github.com/a/gP_-KCrL](https://classroom.github.com/a/gP_-KCrL)
 
 ### Project 3: Generative Audio
 
 [Generative Audio Assignment](https://docs.google.com/document/d/17ZUUWZr7jIhGKwxe_Rj8DlAA6yyrd2YRls66fZOuQK0/edit?usp=sharing), due 5/16/2019, 11:59pm. 
+
+Submit online to github classroom: [https://classroom.github.com/a/JPtQMEm9](https://classroom.github.com/a/JPtQMEm9)
 
 ### Project 4: Generative Visual
 
