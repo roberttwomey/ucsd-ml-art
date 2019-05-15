@@ -222,7 +222,7 @@ sick day
   - Arbitrary Style Transfer
   - Deep Photo Stylization
   - Popular applications
-- In class activities: https://github.com/roberttwomey/ml-art-code/tree/master/week7_style
+- In class activities: [https://github.com/roberttwomey/ml-art-code/tree/master/week7_style](https://github.com/roberttwomey/ml-art-code/tree/master/week7_style)
   - Fast Style, Arbitrary Style, Deep Photo Style
 
 **Project 3 Due:** 5/16/2019 at 11:59pm. 
