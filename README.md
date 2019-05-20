@@ -294,7 +294,13 @@ Submit online to github classroom: [https://classroom.github.com/a/JPtQMEm9](htt
 
 ### Project 4: Generative Visual
 
-### Final Project: Independent Research
+Due 5/30/2019, 11:59pm. 
+
+Submit online to github classroom: LINK TO COME
+
+### Final Project: Revisit One Project for Exhibit
+
+Refine and enhance one of your earlier projects for the final exhibit during Finals Week.
 
 ## CMU Collaboration
 
