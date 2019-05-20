@@ -235,7 +235,7 @@ Submit online to github classroom: [https://classroom.github.com/a/JPtQMEm9](htt
 ### Visual Continued (Week 8)
 
 **Day 15: Deep Dream and Gradient Ascent** 5/20/2019
-- Lecture: pdf
+- Lecture: [pdf](https://drive.google.com/open?id=14G2kUW3HR-gIbhGhRwmCCKskwcMg3011)
 - Neural Doodle [https://datahub.ucsd.edu/user/rtwomey/tree/ml-art-code/week8/Neural_Doodle_keras](https://datahub.ucsd.edu/user/rtwomey/tree/ml-art-code/week8/Neural_Doodle_keras)
 - Deep Dream [https://datahub.ucsd.edu/user/rtwomey/tree/ml-art-code/week8/deepdream](https://datahub.ucsd.edu/user/rtwomey/tree/ml-art-code/week8/deepdream)
   - Gradient Ascent, maximal activation/excitation
