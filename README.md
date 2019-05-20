@@ -243,7 +243,9 @@ Submit online to github classroom: [https://classroom.github.com/a/JPtQMEm9](htt
 **Assign Project 4: Generative Visual**
 
 **Day 16: GANs** 5/22/2019
-
+- Lecture:
+  - Ian Goodfellow tutorial on GANs, NeurIPS 2016 [https://www.youtube.com/watch?v=RvgYvHyT15E](https://www.youtube.com/watch?v=RvgYvHyT15E)
+  
 ### Visual (Week 9)
 
 **Day 17: Pix2pix** 5/27/20119
