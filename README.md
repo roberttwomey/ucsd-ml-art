@@ -243,21 +243,22 @@ Submit online to github classroom: [https://classroom.github.com/a/JPtQMEm9](htt
 **Assign Project 4: Generative Visual**
 
 **Day 16: GANs** 5/22/2019
-- Lecture:
+- Lecture: ([pdf](https://drive.google.com/open?id=1qfMY1_mwNUEihcAkB_iIAilbwW6Z3hGf))
+- StyleGAN, BigGAN, CycleGAN, DCGAN on code repository: [https://github.com/roberttwomey/ml-art-code/tree/master/week8](https://github.com/roberttwomey/ml-art-code/tree/master/week8)
   - Ian Goodfellow tutorial on GANs, NeurIPS 2016 [https://www.youtube.com/watch?v=RvgYvHyT15E](https://www.youtube.com/watch?v=RvgYvHyT15E)
   
 ### Visual (Week 9)
 
-**Day 17: Pix2pix** 5/27/20119
-- Pix2pix models
-- Pixel RNN
-- Neural Doodle
+**Day 17: MEMORIAL DAY** 5/27/2019
+
+No class!
 
 **Day 18: Recognition** 5/29/2019
 - Image Recognition
 - Semantic Segmentation
 - Captioning (MS-COCO)
 - Faces: recognition, pose estimation, 3d reconstruction (deepfakes)
+- Pixel RNN
 
 **Project 4 due** 5/30/2019
 
