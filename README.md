@@ -252,7 +252,7 @@ Submit online to github classroom: [https://classroom.github.com/a/JPtQMEm9](htt
 
 **Day 16: GANs** 5/22/2019
 - Lecture: ([pdf](https://drive.google.com/open?id=1qfMY1_mwNUEihcAkB_iIAilbwW6Z3hGf))
-- StyleGAN, BigGAN, CycleGAN, DCGAN on code repository: [https://github.com/roberttwomey/ml-art-code/tree/master/week8](https://github.com/roberttwomey/ml-art-code/tree/master/week8)
+- StyleGAN, BigGAN, CycleGAN, DCGAN, Pix2Pix on code repository: [https://github.com/roberttwomey/ml-art-code/tree/master/week8](https://github.com/roberttwomey/ml-art-code/tree/master/week8)
   - Ian Goodfellow tutorial on GANs, NeurIPS 2016 [https://www.youtube.com/watch?v=RvgYvHyT15E](https://www.youtube.com/watch?v=RvgYvHyT15E)
   
 ### Visual (Week 9)
@@ -264,7 +264,8 @@ No class!
 **Day 18: Recognition** 5/29/2019
 - Image Recognition
 - Semantic Segmentation
-- Captioning (MS-COCO)
+- Image Captioning with Visual Attention (MS-COCO)
+  - https://colab.research.google.com/drive/1sGC26H7zIZEWrMdI-LN7cIWsF0Ak9tx9
 - Faces: recognition, pose estimation, 3d reconstruction (deepfakes)
 - Pixel RNN
 
