@@ -262,12 +262,10 @@ Submit online to github classroom: [https://classroom.github.com/a/JPtQMEm9](htt
 No class!
 
 **Day 18: Recognition** 5/29/2019
-- Image Recognition
-- Semantic Segmentation
 - Image Captioning with Visual Attention (MS-COCO)
   - https://colab.research.google.com/drive/1sGC26H7zIZEWrMdI-LN7cIWsF0Ak9tx9
-- Faces: recognition, pose estimation, 3d reconstruction (deepfakes)
-- Pixel RNN
+- Semantic Segmentation
+
 
 **Project 4 due** 5/30/2019
 
