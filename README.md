@@ -262,12 +262,13 @@ Submit online to github classroom: [https://classroom.github.com/a/JPtQMEm9](htt
 No class!
 
 **Day 18: Recognition** 5/29/2019
+- Lecture: 
 - Image Captioning with Visual Attention (MS-COCO)
   - https://colab.research.google.com/drive/1sGC26H7zIZEWrMdI-LN7cIWsF0Ak9tx9
 - Semantic Segmentation
+- Project 4 Work Time 
 
-
-**Project 4 due** 5/30/2019
+**Project 4 due** 5/31/2019 at 12:30pm
 
 ### Final Project Development (Week 10)
 
