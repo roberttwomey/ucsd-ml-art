@@ -309,7 +309,7 @@ Submit online to github classroom: [https://classroom.github.com/g/tngoWMjM](htt
 
 ### Final Project: Revisit One Project for Exhibit
 
-Refine and enhance one of your earlier projects for the final exhibit during Finals Week.
+Refine and enhance one of your earlier projects for the final exhibit during Finals Week, Wednesday June 12, 11:30am-2:30pm.
 
 ## CMU Collaboration
 
