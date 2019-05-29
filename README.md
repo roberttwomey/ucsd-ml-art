@@ -252,7 +252,8 @@ Submit online to github classroom: [https://classroom.github.com/a/JPtQMEm9](htt
 - Lecture: ([pdf](https://drive.google.com/open?id=1qfMY1_mwNUEihcAkB_iIAilbwW6Z3hGf))
 - StyleGAN, BigGAN, CycleGAN, DCGAN, Pix2Pix on code repository: [https://github.com/roberttwomey/ml-art-code/tree/master/week8](https://github.com/roberttwomey/ml-art-code/tree/master/week8)
   - Ian Goodfellow tutorial on GANs, NeurIPS 2016 [https://www.youtube.com/watch?v=RvgYvHyT15E](https://www.youtube.com/watch?v=RvgYvHyT15E)
-  
+- Art using GANs
+
 ### Visual (Week 9)
 
 **Day 17: MEMORIAL DAY** 5/27/2019
@@ -264,6 +265,7 @@ No class!
 - Image Captioning with Visual Attention (MS-COCO)
   - https://colab.research.google.com/drive/1sGC26H7zIZEWrMdI-LN7cIWsF0Ak9tx9
 - Semantic Segmentation
+- Art using Segmentation and Captioning
 - Project 4 Work Time 
 
 **Project 4 due** 5/31/2019 at 12:30pm
