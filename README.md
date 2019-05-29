@@ -5,8 +5,6 @@ If you intend to enroll for Fall 2019, please fill out this quesionnare: [https:
 # ECE 188: Machine Learning for the Arts - Spring 2019
 
 
-
-
 [Details](#details) | [Resources](#resources) | [Policies](#policies) | [Code](#code) | [Schedule](#schedule) | [Projects](#projects) | [CMU Collaboration](#cmu-collaboration) | [Accomodations](#accomodations) | [Diversity and Inclusion](#diversity-and-inclusion)
 
 ![Image](ml_art2019.png)
@@ -262,7 +260,7 @@ Submit online to github classroom: [https://classroom.github.com/a/JPtQMEm9](htt
 No class!
 
 **Day 18: Recognition** 5/29/2019
-- Lecture: 
+- Lecture: ([pdf](https://drive.google.com/file/d/1RL5Ba3pkx0q9n3Bm2GRCtwce7BKqxP42/view?usp=sharing))
 - Image Captioning with Visual Attention (MS-COCO)
   - https://colab.research.google.com/drive/1sGC26H7zIZEWrMdI-LN7cIWsF0Ak9tx9
 - Semantic Segmentation
