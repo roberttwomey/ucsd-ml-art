@@ -303,7 +303,7 @@ Submit online to github classroom: [https://classroom.github.com/a/JPtQMEm9](htt
 
 ### Project 4: Generative Visual
 
-Due 5/30/2019, 11:59pm. Open ended.
+Due 5/31/2019, 12:30pm. Open ended.
 
 Submit online to github classroom: [https://classroom.github.com/g/tngoWMjM](https://classroom.github.com/g/tngoWMjM)
 
