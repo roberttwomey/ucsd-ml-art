@@ -1,5 +1,5 @@
 # NOTE: FALL 2019
-If you intend to enroll for Fall 2019, please fill out this quesionnare: [https://forms.gle/iHiggRiVbPUsWMm46](https://forms.gle/iHiggRiVbPUsWMm46), and enroll for the class through the EASy system. 
+If you intend to enroll for Fall 2019, please fill out this questionnare: [https://forms.gle/iHiggRiVbPUsWMm46](https://forms.gle/iHiggRiVbPUsWMm46), and enroll for the class through the EASy system. 
 
 
 # ECE 188: Machine Learning for the Arts - Spring 2019
