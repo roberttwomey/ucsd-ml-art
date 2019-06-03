@@ -272,12 +272,22 @@ No class!
 
 ### Final Project Development (Week 10)
 
-**Lecture: Alternate Platforms**
-- TPUs
-- Embedded systems (NVIDIA jetson nano, Google Coral, others)
-- Tools (DNNWeaver)
+**Day 19: Platforms** 6/3/2019
+- Lecture
+  - Embedded systems (NVIDIA jetson nano, Google Coral, others)
+  - TPUs
+  - Tools (DNNWeaver)  
+- Final Projects
+  - Project repository as usual through github classroom: [https://classroom.github.com/g/pEWp059E](https://classroom.github.com/g/pEWp059E)
+  - An extended project report (4 pages): [google docs](https://docs.google.com/document/d/133H59WZBmH6MlAgFSskFLMQITeIC5d9b2iuzsOfa4E8/edit?usp=sharing)
+  - By wednesday: accept the classroom assignment, fill in your abstract/proposal. Check in with me on Wednesday during class.
+  
+**Day 20: Work time, Q&A** 6/5/2019
+- Individual meetings regarding final project.
 
 ### Final Presentations / Exhibition (Finals Week)
+
+**FINAL TIME:** Wednesday June 12, 11:30am-2:30pm. JKW Auditorium in CMRR.
 
 **Final Work due for Exhibition**
 
