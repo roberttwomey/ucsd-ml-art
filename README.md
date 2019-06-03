@@ -273,7 +273,7 @@ No class!
 ### Final Project Development (Week 10)
 
 **Day 19: Platforms** 6/3/2019
-- Lecture
+- Lecture ([pdf](https://drive.google.com/open?id=1_y2vRaHguQ-4S29ax4L-3AuSId3dHqrI))
   - Embedded systems (NVIDIA jetson nano, Google Coral, others)
   - TPUs
   - Tools (DNNWeaver)  
