@@ -309,7 +309,13 @@ Submit online to github classroom: [https://classroom.github.com/g/tngoWMjM](htt
 
 ### Final Project: Revisit One Project for Exhibit
 
-Refine and enhance one of your earlier projects for the final exhibit during Finals Week, Wednesday June 12, 11:30am-2:30pm.
+Refine and enhance one of your earlier projects for the showcase during Finals Week. 
+
+Wednesday June 12, 11:30am-2:30pm.
+
+For the final project you will need to submit two things: 
+- code repository as usual through github classroom: [https://classroom.github.com/g/pEWp059E](https://classroom.github.com/g/pEWp059E)
+- An extended project report (4 pages): [google docs](https://docs.google.com/document/d/133H59WZBmH6MlAgFSskFLMQITeIC5d9b2iuzsOfa4E8/edit?usp=sharing)
 
 ## CMU Collaboration
 
