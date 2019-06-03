@@ -274,8 +274,8 @@ No class!
 
 **Day 19: Platforms** 6/3/2019
 - Lecture ([pdf](https://drive.google.com/open?id=1_y2vRaHguQ-4S29ax4L-3AuSId3dHqrI))
-  - Embedded systems (NVIDIA jetson nano, Google Coral, others)
-  - TPUs
+  - What is Datahub?
+  - Embedded systems (NVIDIA jetson nano, Google Coral, TPUs, others)
   - Tools (DNNWeaver)  
 - Final Projects
   - Project repository as usual through github classroom: [https://classroom.github.com/g/pEWp059E](https://classroom.github.com/g/pEWp059E)
