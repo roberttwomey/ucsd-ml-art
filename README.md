@@ -281,7 +281,7 @@ No class!
   - Project repository as usual through github classroom: [https://classroom.github.com/g/pEWp059E](https://classroom.github.com/g/pEWp059E)
   - An extended project report (4 pages): [google docs](https://docs.google.com/document/d/133H59WZBmH6MlAgFSskFLMQITeIC5d9b2iuzsOfa4E8/edit?usp=sharing)
   - By wednesday: accept the classroom assignment, fill in your abstract/proposal. Check in with me on Wednesday during class.
-- Inspiration for final projects
+- Inspiration for final projects (from your peers at CMU)
   - CMU ArtML Spring 19 Finals: http://kangeunsu.com/artml19s/gallery.html
   
 **Day 20: Work time, Q&A** 6/5/2019
