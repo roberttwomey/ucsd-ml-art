@@ -292,6 +292,7 @@ No class!
 **FINAL TIME:** Wednesday June 12, 11:30am-2:30pm. JKW Auditorium in CMRR.
 
 PROJECT DUE: 11:30am, Wednesday June 12. 
+
 REPORT DUE: 11:59pm, Friday June 12 (add to your github repository as pdf)
 
 ## Projects
@@ -325,6 +326,7 @@ Submit online to github classroom: [https://classroom.github.com/g/tngoWMjM](htt
 Refine, enhance, extend one of your earlier projects for the showcase during Finals Week. 
 
 PROJECT DUE 6/12, 11:30am-2:30pm. JKW Auditorium in CMRR.
+
 REPORT DUE 6/14, 11:59pm. Add the pdf to your github, please.
 
 For the final project you will need to submit two things: 
