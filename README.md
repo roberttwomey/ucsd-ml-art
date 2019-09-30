@@ -32,6 +32,10 @@ This project-based course will be conducted primarily in python using free, open
 
 * **Code:** code examples are here: [https://github.com/roberttwomey/ml-art-code](https://github.com/roberttwomey/ml-art-code)
 
+* **Canvas:** this is where I will post your grades: [https://canvas.ucsd.edu/courses/5343](https://canvas.ucsd.edu/courses/5343)
+
+* **Github Classroom:** this is where you will submit your code: [https://classroom.github.com/classrooms/49459697-ece188-fa2019](https://classroom.github.com/classrooms/49459697-ece188-fa2019)
+
 # Policies
 
 ## Grading
@@ -280,7 +284,7 @@ Submit online to github classroom: []()
 
 ## Project 3: Generative Visual
 
-[Generative Visual Assignment(). Due 12/1/2019, 11:59pm. Open ended.
+[Generative Visual Assignment](). Due 12/1/2019, 11:59pm. Open ended.
 
 Submit online to github classroom: []()
 
