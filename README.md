@@ -1,8 +1,8 @@
 # NOTE: FALL 2019
-If you intend to enroll for Fall 2019, please fill out this questionnare: [https://forms.gle/iHiggRiVbPUsWMm46](https://forms.gle/iHiggRiVbPUsWMm46), and enroll for the class through the EASy system. 
+If you intend to enroll for Fall 2019, please fill out this questionnare: [https://forms.gle/iHiggRiVbPUsWMm46](https://forms.gle/iHiggRiVbPUsWMm46), and enroll for the class through the [EASy system](https://academicaffairs.ucsd.edu/Modules/Students/PreAuth/). 
 
 
-# ECE 188: Machine Learning for the Arts - Spring 2019
+# ECE 188: Machine Learning for the Arts - Fall 2019
 
 
 [Details](#details) | [Resources](#resources) | [Policies](#policies) | [Code](#code) | [Schedule](#schedule) | [Projects](#projects) | [CMU Collaboration](#cmu-collaboration) | [Accomodations](#accomodations) | [Diversity and Inclusion](#diversity-and-inclusion)
