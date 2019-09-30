@@ -3,7 +3,7 @@ If you intend to enroll for Fall 2019, please fill out this questionnare: [https
 
 # ECE 188: Machine Learning for the Arts - Fall 2019
 
-[Details](#details) | [Resources](#resources) | [Policies](#policies) | [Code](#code) | [Schedule](#schedule) | [Projects](#projects) | [Accomodations](#accomodations) | [Diversity and Inclusion](#diversity-and-inclusion)
+[Resources](#resources) | [Policies](#policies) | [Schedule](#schedule) | [Projects](#projects) | [Accomodations](#accomodations) | [Diversity and Inclusion](#diversity-and-inclusion)
 
 ![Image](ml_art2019.png)
 
@@ -26,7 +26,7 @@ This project-based course will be conducted primarily in python using free, open
 - **Location:** EBU1 2315
 
 # Resources
-* **Discussion:** we will use slack for discussion [https://ucsd-ml-art.slack.com/signup](https://ucsd-ml-art.slack.com/signup) (join with your @ucsd account)
+* **Discussion:** we will use slack for discussion [https://join.slack.com/t/ucsd-ml-art/signup](https://join.slack.com/t/ucsd-ml-art/signup) (join with your @ucsd.edu or @eng.ucsd.edu account)
 
 * **Compute Resources:** We will use [datahub.ucsd.edu](http://datahub.ucsd.edu) for our in class computing environment. If you did not attend the bootcamp you need to contact me to be approved for datahub access. I will base it off of our final enrollment.
 
@@ -57,19 +57,33 @@ This course will be a mix of group work and individual work depending on each as
 
 We will have critique/group discussion for each of the projects this quarter.
 
+## Accomodations
+The Office for Students with Disabilities (OSD), an Academic Affairs department, is responsible for the review of medical documentation and the determination of reasonable accommodations based on a disability. Authorization for Accommodation (AFA) letters are issued by the OSD and given to undergraduate, graduate, and Professional School students directly. If you have an AFA letter, meet with the CSE Student Affairs representative, and schedule an appointment with your instructor by the end of Week 2 to ensure that reasonable accommodations for the quarter can be arranged.
+
+## Diversity and Inclusion
+We are committed to fostering a learning environment for this course that supports a diversity of thoughts, perspectives and experiences, and respects your identities (including race, ethnicity, heritage, gender, sex, class, sexuality, religion, ability, age, educational background, etc.). Our goal is to create a diverse and inclusive learning environment where all students feel comfortable and can thrive.
+
+Our instructional staff will make a concerted effort to be welcoming and inclusive to the wide diversity of students in this course. If there is a way we can make you feel more included please let one of the course staff know, either in person, via email/discussion board, or even in a note under the door. Our learning about diverse perspectives and identities is an ongoing process, and we welcome your perspectives and input.
+
+We also expect that you, as a student in this course, will honor and respect your classmates, abiding by the UCSD Principles of Community [https://ucsd.edu/about/principles.html](https://ucsd.edu/about/principles.html). Please understand that others’ backgrounds, perspectives and experiences may be different than your own, and help us to build an environment where everyone is respected and feels comfortable.If you experience any sort of harassment or discrimination, please contact the instructor as soon as possible. If you prefer to speak with someone outside of the course, please contact the Office of Prevention of Harassment and Discrimination: [https://ophd.ucsd.edu/](https://ophd.ucsd.edu/)
+
 # Schedule
 
 ## Introduction to Art and ML (Week 1)
-**Day 1: Course and Syllabus** 4/1/2019
-- Lecture ([pdf](https://drive.google.com/file/d/1EGI-bioemxFXJb5VfpVB5snLGBxX3fxr/view?usp=sharing))
+**Day 1: Course and Syllabus** 
+- Lecture: ([pdf]())
   - Syllabus, policies, schedule
   - Projects
   - My approach
-- Logistical questions?
+- Lab:
+  - Enrollment questions?
+  - Sign up for slack [https://join.slack.com/t/ucsd-ml-art/signup](https://join.slack.com/t/ucsd-ml-art/signup)
+  - Log onto datahub
+  - File->Clone repository `git clone `
 
-**Homework:** Sign up for slack and post something you are interested in (a project, paper, github link) to [#shiny](https://ece188-ml-art.slack.com/messages/CHJDGRV0X).
+**Homework:** Post something you are interested in (a project, paper, github link) to [#shiny](https://ucsd-ml-art.slack.com/messages/CHJDGRV0X).
 
-**Day 2: Introduction to ML and the Arts** 4/3/2019
+**Day 2: Introduction to ML and the Arts** 
 - Lecture ([pdf](https://drive.google.com/file/d/1b2xBi-2vZhW_hVo3UQJKU0MFyyoXpN9Z/view?usp=sharing))
   - Generative Systems in Art Overview
   - Survey of notable work in Art and ML
@@ -283,7 +297,7 @@ REPORT DUE: 11:59pm, Friday June 12 (add to your github repository as pdf)
 
 ## Project 1: Generative Text
 
-[Generative Text Assignment](https://docs.google.com/document/d/13ueceIyuUc4ATD7B-SFZK641MycFZ57eZ9n1lQ3Y1CM/edit?usp=sharing), due 4/18/2019, 11:59pm.
+[Generative Text Assignment](https://docs.google.com/document/d/17FX0Vt3ur9QVmhnq4n4JJ0dmqBJuKIKGrslLoAkDpeM/edit?export=pdf), due 4/18/2019, 11:59pm.
 
 Submit online to github classroom: [https://classroom.github.com/a/F_S6X9eN](https://classroom.github.com/a/F_S6X9eN)
 
@@ -310,18 +324,6 @@ REPORT DUE 6/14, 11:59pm. Add the pdf to your github, please.
 For the final project you will need to submit two things: 
 - Project repository as usual through github classroom: [https://classroom.github.com/g/pEWp059E](https://classroom.github.com/g/pEWp059E)
 - An extended project report (4 pages): [google docs](https://docs.google.com/document/d/133H59WZBmH6MlAgFSskFLMQITeIC5d9b2iuzsOfa4E8/edit?usp=sharing)
-
-# Class Rules
-
-## Accomodations
-The Office for Students with Disabilities (OSD), an Academic Affairs department, is responsible for the review of medical documentation and the determination of reasonable accommodations based on a disability. Authorization for Accommodation (AFA) letters are issued by the OSD and given to undergraduate, graduate, and Professional School students directly. If you have an AFA letter, meet with the CSE Student Affairs representative, and schedule an appointment with your instructor by the end of Week 2 to ensure that reasonable accommodations for the quarter can be arranged.
-
-## Diversity and Inclusion
-We are committed to fostering a learning environment for this course that supports a diversity of thoughts, perspectives and experiences, and respects your identities (including race, ethnicity, heritage, gender, sex, class, sexuality, religion, ability, age, educational background, etc.). Our goal is to create a diverse and inclusive learning environment where all students feel comfortable and can thrive.
-
-Our instructional staff will make a concerted effort to be welcoming and inclusive to the wide diversity of students in this course. If there is a way we can make you feel more included please let one of the course staff know, either in person, via email/discussion board, or even in a note under the door. Our learning about diverse perspectives and identities is an ongoing process, and we welcome your perspectives and input.
-
-We also expect that you, as a student in this course, will honor and respect your classmates, abiding by the UCSD Principles of Community [https://ucsd.edu/about/principles.html](https://ucsd.edu/about/principles.html). Please understand that others’ backgrounds, perspectives and experiences may be different than your own, and help us to build an environment where everyone is respected and feels comfortable.If you experience any sort of harassment or discrimination, please contact the instructor as soon as possible. If you prefer to speak with someone outside of the course, please contact the Office of Prevention of Harassment and Discrimination: [https://ophd.ucsd.edu/](https://ophd.ucsd.edu/)
 
 # Addenda
 
