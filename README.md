@@ -78,7 +78,7 @@ We will have critique/group discussion for each of the projects this quarter.
 **Homework:** Post something you are interested in (a project, paper, github link) to [#shiny](https://ucsd-ml-art.slack.com/messages/CHJDGRV0X).
 
 **Day 2: Introduction to ML and the Arts** 10/2
-- Lecture ([pdf](https://drive.google.com/file/d/1b2xBi-2vZhW_hVo3UQJKU0MFyyoXpN9Z/view?usp=sharing))
+- Lecture ([pdf]())
   - Generative Systems in Art Overview
   - Survey of notable work in Art and ML
 
@@ -91,7 +91,7 @@ We will have critique/group discussion for each of the projects this quarter.
 ## Text Generation (Week 2)
 
 **Day 3: Generative Text** 10/7
-- Lecture ([pdf](https://drive.google.com/file/d/1gAradJrMxGedBvziD_shmm-FUjbzd5mL/view?usp=sharing]))
+- Lecture ([pdf]())
   - Approaches to generative text
     - RNNs (karpathy) (character level)
   - Practical Issues
@@ -104,7 +104,7 @@ We will have critique/group discussion for each of the projects this quarter.
   - [Generative Text Assignment](https://docs.google.com/document/d/13ueceIyuUc4ATD7B-SFZK641MycFZ57eZ9n1lQ3Y1CM/edit?usp=sharing), due 4/18/2019, 11:59pm.
 
 **Day 4: Text part 2** 10/9
-- Lecture ([pdf](https://drive.google.com/open?id=18tHG3m5e0SAwmwQcijLX1uP1Kljf2yQp))
+- Lecture ([pdf]())
   - Case Study: GPT, GPT-2
   - Chatbots (the eliza effect)
     - seq2seq models
@@ -118,7 +118,7 @@ We will have critique/group discussion for each of the projects this quarter.
 ## Time Series in ML (Week 3)
 
 **Day 5: Autoencoders, Embeddings, Sketch-RNN** 10/14
-- Lecture ([pdf](https://drive.google.com/file/d/1dCcupN7yN-q3j0UqezO4k0jal60tUEXI/view?usp=sharing))
+- Lecture ([pdf]())
   - VAEs (MNIST VAE)
   - Latent representation, Embeddings
   - Modeling Drawings (Sketch-RNN)
@@ -148,14 +148,14 @@ We will have critique/group discussion for each of the projects this quarter.
 - Present selected projects to class (50 minutes)
 
 **Day 8: Handwriting** 10/23
-- Lecture ([pdf](https://drive.google.com/open?id=1tP3scRbhAYsCq0IIuQIYKoos1uyUd1Ml))
+- Lecture ([pdf]())
 - Mixture Density Networks (MDNs)
 - Alex Graves sequence paper, generative handwriting models
 
 ## Audio Continued (Week 5)
 
 **Day 9: Generative Audio** 10/28
-- Lecture: History of generative music ([pdf](https://drive.google.com/file/d/1p2XcGHwQRyP8AjsHKk8JDNXHWJFkVU0y/view?usp=sharing)]
+- Lecture: History of generative music ([pdf]()]
 - Hands-on with contemporary music generators
   - NSynth: [blog](https://magenta.tensorflow.org/nsynth), [interactive example](https://experiments.withgoogle.com/ai/sound-maker/view/)
   - MusicVAE: [blog](https://magenta.tensorflow.org/music-vae), [interactive example](https://magenta.tensorflow.org/multitrack)
@@ -179,7 +179,7 @@ We will have critique/group discussion for each of the projects this quarter.
 ## Audio, then Visual Processing (Week 6)
 
 **Day 11: Speech Generation** 11/4
-- Lecture ([pdf](https://drive.google.com/file/d/16QJAIrvSbBC20vO0Ej-cYgS4l06qOrG9/view?usp=sharing))
+- Lecture ([pdf]())
   - Text to Speech 
   - Vocoders, Unit Selection
   - Art with Speech Synthesis
@@ -187,7 +187,7 @@ We will have critique/group discussion for each of the projects this quarter.
 
 **Day 12: Visual Processing** 11/6
 
-- Lecture: CNNs and Neural Style ([pdf](https://drive.google.com/open?id=1xkmIjQVpJuwycVysKX71TMZ6iToADQ5B))
+- Lecture: CNNs and Neural Style ([pdf]())
   - CNNs vs other NNs. 
     - LeNet
     - VGG16, VGG19
@@ -211,7 +211,7 @@ We will have critique/group discussion for each of the projects this quarter.
 ## Visual Continued (Week 8)
 
 **Day 15: Style Transfer, Continued** 11/18
-- Lecture: [pdf](https://drive.google.com/open?id=1nbHklxFSKjIdz6EUnS3KU776mUmnAi3x)
+- Lecture: [pdf]()
   - Fast Style Transfer
   - Arbitrary Style Transfer
   - Deep Photo Stylization
@@ -221,7 +221,7 @@ We will have critique/group discussion for each of the projects this quarter.
   - Fast Style, Arbitrary Style, Deep Photo Style
 
 **Day 16: Deep Dream and Gradient Ascent** 11/20
-- Lecture: ([pdf](https://drive.google.com/open?id=14G2kUW3HR-gIbhGhRwmCCKskwcMg3011))
+- Lecture: ([pdf]())
 - Neural Doodle [https://datahub.ucsd.edu/user/rtwomey/tree/ml-art-code/week8/Neural_Doodle_keras](https://datahub.ucsd.edu/user/rtwomey/tree/ml-art-code/week8/Neural_Doodle_keras)
 - Deep Dream [https://datahub.ucsd.edu/user/rtwomey/tree/ml-art-code/week8/deepdream](https://datahub.ucsd.edu/user/rtwomey/tree/ml-art-code/week8/deepdream)
   - Gradient Ascent, maximal activation/excitation
@@ -229,14 +229,14 @@ We will have critique/group discussion for each of the projects this quarter.
 ** GANs and Perceptive ML (Week 9)
 
 **Day 17: GANs** 11/25
-- Lecture: ([pdf](https://drive.google.com/open?id=1qfMY1_mwNUEihcAkB_iIAilbwW6Z3hGf))
+- Lecture: ([pdf]())
 - StyleGAN, BigGAN, CycleGAN, DCGAN, Pix2Pix on code repository: [https://github.com/roberttwomey/ml-art-code/tree/master/week8](https://github.com/roberttwomey/ml-art-code/tree/master/week8)
   - Ian Goodfellow tutorial on GANs, NeurIPS 2016 [https://www.youtube.com/watch?v=RvgYvHyT15E](https://www.youtube.com/watch?v=RvgYvHyT15E)
 - Art using GANs
 ## Visual (Week 9)
 
 **Day 18: Recognition** 11/27
-- Lecture: ([pdf](https://drive.google.com/file/d/1RL5Ba3pkx0q9n3Bm2GRCtwce7BKqxP42/view?usp=sharing))
+- Lecture: ([pdf]())
 - Image Captioning with Visual Attention (MS-COCO)
   - https://colab.research.google.com/drive/1sGC26H7zIZEWrMdI-LN7cIWsF0Ak9tx9
 - Semantic Segmentation
