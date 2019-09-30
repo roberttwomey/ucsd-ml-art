@@ -65,7 +65,7 @@ We will have critique/group discussion for each of the projects this quarter.
 
 ## Introduction to Art and ML (Week 1)
 **Day 1: Course and Syllabus** 9/29
-- Lecture: ([pdf]())
+- Lecture: ([pdf](https://drive.google.com/open?id=1_RhMhnznkVwYLGB0ZzACeH5U0yR4hOgg))
   - Syllabus, policies, schedule
   - Projects
   - My approach
