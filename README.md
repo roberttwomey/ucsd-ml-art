@@ -51,26 +51,16 @@ Work will be evaluated on the quality of concept, the degree of experimentation 
 
 ## Group Work
 
-This course will be a mix of group work and individual work depending on each assignment. I want you each to develop your own personal research interests, but also to pool your resources and talents to produce the best projects possible. **Group work is encouraged on projects.**
+This course will be a mix of group work and individual work depending on each assignment. I want you each to develop your own personal research interests, but also to pool your resources and talents to produce the best projects possible. **Group work is encouraged, but not required.**
 
 ## Project Critiques and Group Discussions
 
 We will have critique/group discussion for each of the projects this quarter.
 
-## Accomodations
-The Office for Students with Disabilities (OSD), an Academic Affairs department, is responsible for the review of medical documentation and the determination of reasonable accommodations based on a disability. Authorization for Accommodation (AFA) letters are issued by the OSD and given to undergraduate, graduate, and Professional School students directly. If you have an AFA letter, meet with the CSE Student Affairs representative, and schedule an appointment with your instructor by the end of Week 2 to ensure that reasonable accommodations for the quarter can be arranged.
-
-## Diversity and Inclusion
-We are committed to fostering a learning environment for this course that supports a diversity of thoughts, perspectives and experiences, and respects your identities (including race, ethnicity, heritage, gender, sex, class, sexuality, religion, ability, age, educational background, etc.). Our goal is to create a diverse and inclusive learning environment where all students feel comfortable and can thrive.
-
-Our instructional staff will make a concerted effort to be welcoming and inclusive to the wide diversity of students in this course. If there is a way we can make you feel more included please let one of the course staff know, either in person, via email/discussion board, or even in a note under the door. Our learning about diverse perspectives and identities is an ongoing process, and we welcome your perspectives and input.
-
-We also expect that you, as a student in this course, will honor and respect your classmates, abiding by the UCSD Principles of Community [https://ucsd.edu/about/principles.html](https://ucsd.edu/about/principles.html). Please understand that others’ backgrounds, perspectives and experiences may be different than your own, and help us to build an environment where everyone is respected and feels comfortable.If you experience any sort of harassment or discrimination, please contact the instructor as soon as possible. If you prefer to speak with someone outside of the course, please contact the Office of Prevention of Harassment and Discrimination: [https://ophd.ucsd.edu/](https://ophd.ucsd.edu/)
-
 # Schedule
 
 ## Introduction to Art and ML (Week 1)
-**Day 1: Course and Syllabus** 
+**Day 1: Course and Syllabus** 9/29
 - Lecture: ([pdf]())
   - Syllabus, policies, schedule
   - Projects
@@ -83,12 +73,12 @@ We also expect that you, as a student in this course, will honor and respect you
 
 **Homework:** Post something you are interested in (a project, paper, github link) to [#shiny](https://ucsd-ml-art.slack.com/messages/CHJDGRV0X).
 
-**Day 2: Introduction to ML and the Arts** 
+**Day 2: Introduction to ML and the Arts** 10/2
 - Lecture ([pdf](https://drive.google.com/file/d/1b2xBi-2vZhW_hVo3UQJKU0MFyyoXpN9Z/view?usp=sharing))
   - Generative Systems in Art Overview
   - Survey of notable work in Art and ML
 
-**Lab 1: Get set up in our environment** 4/5/2019
+**Lab 1: Get set up in our environment** 
 - Hands-on with datahub.ucsd.edu, jupyter
 - Confirm everyone's logon works
 - Work through RNN text example.
@@ -96,7 +86,7 @@ We also expect that you, as a student in this course, will honor and respect you
 
 ## Text Generation (Week 2)
 
-**Day 3: Generative Text** 4/8/2019
+**Day 3: Generative Text** 10/7
 - Lecture ([pdf](https://drive.google.com/file/d/1gAradJrMxGedBvziD_shmm-FUjbzd5mL/view?usp=sharing]))
   - Approaches to generative text
     - RNNs (karpathy) (character level)
@@ -109,7 +99,7 @@ We also expect that you, as a student in this course, will honor and respect you
 - **Assign Project 1: Generative Text** 
   - [Generative Text Assignment](https://docs.google.com/document/d/13ueceIyuUc4ATD7B-SFZK641MycFZ57eZ9n1lQ3Y1CM/edit?usp=sharing), due 4/18/2019, 11:59pm.
 
-**Day 4: Text part 2** 4/10/2019
+**Day 4: Text part 2** 10/9
 - Lecture ([pdf](https://drive.google.com/open?id=18tHG3m5e0SAwmwQcijLX1uP1Kljf2yQp))
   - Case Study: GPT, GPT-2
   - Chatbots (the eliza effect)
@@ -123,13 +113,13 @@ We also expect that you, as a student in this course, will honor and respect you
 
 ## Time Series in ML (Week 3)
 
-**Day 5: Autoencoders, Embeddings, Sketch-RNN** 4/15/2019
+**Day 5: Autoencoders, Embeddings, Sketch-RNN** 10/14
 - Lecture ([pdf](https://drive.google.com/file/d/1dCcupN7yN-q3j0UqezO4k0jal60tUEXI/view?usp=sharing))
   - VAEs (MNIST VAE)
   - Latent representation, Embeddings
   - Modeling Drawings (Sketch-RNN)
 
-**Day 6: Hands-On with VAE, Sketch-RNN** 4/17/2019
+**Day 6: Hands-On with VAE, Sketch-RNN** 10/16
 - Talk about how to submit project 1.
 - In-class activities with VAE and Sketch-RNN code.
 - Clone the code repository into your datahub: ```git clone https://github.com/roberttwomey/ml-art-class```
@@ -137,26 +127,30 @@ We also expect that you, as a student in this course, will honor and respect you
   - 01_mnist_vae.ipynb
   - 02_sketch_rnn.ipynb
   - Start training a sketch-rnn model on google colab
-  
-- **Assign Project 2: Sketching with ML**
-  - [Sketching with ML Assignment](https://docs.google.com/document/d/1o_Ii4Eo3KDxq7Nw84_dLoFqes-ouDp2C--f6zMmixxk/edit?usp=sharing), due 5/2/2019, 11:59pm.
 
-**Project 1 Due** 4/18/2019, 11:59pm.
+**Assign Project 2:** Generative Audio. See [#projects](#projects)
+- Due 11/10, 11:59pm. Submit online to github classroom.
+
+
+## Drawing cont., Generative Audio (Week 4)
+
+**Project 1 Due** 10/20 11:59pm
+
 - Submit assignment to github classroom here: [https://classroom.github.com/a/F_S6X9eN](https://classroom.github.com/a/F_S6X9eN)
 
-**Lab 3: Project 1 discussion** 4/19/2019
+**Day 7: Project 1 discussion** 10/21
 - Bring printed copy of your project and abstract. 
 - Discuss in small groups (20 minutes)
 - Present selected projects to class (50 minutes)
 
-## Drawing cont., Generative Audio (Week 4)
-
-**Day 7: Handwriting** 4/22/2019
+**Day 8: Handwriting** 10/23
 - Lecture ([pdf](https://drive.google.com/open?id=1tP3scRbhAYsCq0IIuQIYKoos1uyUd1Ml))
 - Mixture Density Networks (MDNs)
 - Alex Graves sequence paper, generative handwriting models
 
-**Day 8: Generative Audio** 4/24/2019
+## Audio Continued (Week 5)
+
+**Day 9: Generative Audio** 10/28
 - Lecture: History of generative music ([pdf](https://drive.google.com/file/d/1p2XcGHwQRyP8AjsHKk8JDNXHWJFkVU0y/view?usp=sharing)]
 - Hands-on with contemporary music generators
   - NSynth: [blog](https://magenta.tensorflow.org/nsynth), [interactive example](https://experiments.withgoogle.com/ai/sound-maker/view/)
@@ -165,12 +159,9 @@ We also expect that you, as a student in this course, will honor and respect you
   - GANSynth: [blog](https://magenta.tensorflow.org/gansynth), [interactive colab example](https://colab.research.google.com/notebooks/magenta/gansynth/gansynth_demo.ipynb)
   - Music Transformer: [blog](https://magenta.tensorflow.org/music-transformer)
 
+- Lab: Project 2 Work
 
-**Lab 3: Project 2 Work** 4/26/2019
-
-## Audio Continued (Week 5)
-
-**Day 9: Generative Networks for Music** 4/29/2019
+**Day 10: Generative Networks for Music** 10/30
 - Check in on any last minute questions for Project 2
 - Hands on with ML Music:
   - In small groups, work through these examples from the code repository (divide, conquer, and share!): [https://github.com/roberttwomey/ml-art-code/blob/master/week5/01_Activities.ipynb](https://github.com/roberttwomey/ml-art-code/blob/master/week5/01_Activities.ipynb)
@@ -181,29 +172,16 @@ We also expect that you, as a student in this course, will honor and respect you
     - direct sound synthesis
     - sound latent-space interpolation.
   
-**Day 10: class cancelled** 5/1/2019
-
-sick day
-
-
-- **Assign Project 3:** Generative Audio. [Project writeup](https://docs.google.com/document/d/17ZUUWZr7jIhGKwxe_Rj8DlAA6yyrd2YRls66fZOuQK0/edit?usp=sharing)
-
-
-**Project 2 Due:** 5/2/2019, 11:59pm. Submit online to github classroom: [https://classroom.github.com/a/gP_-KCrL](https://classroom.github.com/a/gP_-KCrL)
-
-**Lab 4: Project 2 Discussion** 5/3/2019
-
 ## Audio, then Visual Processing (Week 6)
 
-**Day 11: Speech Generation** 5/6/2019
+**Day 11: Speech Generation** 11/4
 - Lecture ([pdf](https://drive.google.com/file/d/16QJAIrvSbBC20vO0Ej-cYgS4l06qOrG9/view?usp=sharing))
   - Text to Speech 
   - Vocoders, Unit Selection
   - Art with Speech Synthesis
   - ML(Tacotron, WaveGlow)
-- **Assign Project 3:** Generative Audio. [Project prompt](https://docs.google.com/document/d/17ZUUWZr7jIhGKwxe_Rj8DlAA6yyrd2YRls66fZOuQK0/edit?usp=sharing). Due Thursday 5/16, 11:59pm.
 
-**Day 12: Visual Processing** 5/8/2019
+**Day 12: Visual Processing** 11/6
 
 - Lecture: CNNs and Neural Style ([pdf](https://drive.google.com/open?id=1xkmIjQVpJuwycVysKX71TMZ6iToADQ5B))
   - CNNs vs other NNs. 
@@ -211,67 +189,64 @@ sick day
     - VGG16, VGG19
   - A Neural Algorithm of Style.
   - Neural Style Transfer
-- Hands on activities: [https://github.com/roberttwomey/ml-art-code/tree/master/week6_cnn
+- Lab: [https://github.com/roberttwomey/ml-art-code/tree/master/week6_cnn
 ](https://github.com/roberttwomey/ml-art-code/tree/master/week6_cnn
 )
 
+**Assign Project 4: Generative Visual**
+
 ## Visual Continued (Week 7)
 
-**Day 13: Work Day** 5/13/2019
-- Work day on project 3
+**Day 13: **VETERANS DAY NO CLASS** 11/11
 
-**Day 14: Style Transfer, Continued** 5/15/2019
+**Project 2 Due:** 11/12, 11:59pm, through github classroom.
+
+**Day 14: Critique: Project 2** 11/13
+
+
+## Visual Continued (Week 8)
+
+**Day 15: Style Transfer, Continued** 11/18
 - Lecture: [pdf](https://drive.google.com/open?id=1nbHklxFSKjIdz6EUnS3KU776mUmnAi3x)
   - Fast Style Transfer
   - Arbitrary Style Transfer
   - Deep Photo Stylization
   - Popular applications
-- In class activities: [https://github.com/roberttwomey/ml-art-code/tree/master/week7_style](https://github.com/roberttwomey/ml-art-code/tree/master/week7_style)
+- Lab: 
+  - [https://github.com/roberttwomey/ml-art-code/tree/master/week7_style](https://github.com/roberttwomey/ml-art-code/tree/master/week7_style)
   - Fast Style, Arbitrary Style, Deep Photo Style
 
-**Project 3 Due:** 5/16/2019 at 11:59pm. 
-
-Submit online to github classroom: [https://classroom.github.com/a/JPtQMEm9](https://classroom.github.com/a/JPtQMEm9)
-
-- Critique on Friday from 12:30-1:30. 
-
-
-## Visual Continued (Week 8)
-
-**Day 15: Deep Dream and Gradient Ascent** 5/20/2019
+**Day 16: Deep Dream and Gradient Ascent** 11/20
 - Lecture: ([pdf](https://drive.google.com/open?id=14G2kUW3HR-gIbhGhRwmCCKskwcMg3011))
 - Neural Doodle [https://datahub.ucsd.edu/user/rtwomey/tree/ml-art-code/week8/Neural_Doodle_keras](https://datahub.ucsd.edu/user/rtwomey/tree/ml-art-code/week8/Neural_Doodle_keras)
 - Deep Dream [https://datahub.ucsd.edu/user/rtwomey/tree/ml-art-code/week8/deepdream](https://datahub.ucsd.edu/user/rtwomey/tree/ml-art-code/week8/deepdream)
   - Gradient Ascent, maximal activation/excitation
 
-**Assign Project 4: Generative Visual**
+** GANs and Perceptive ML (Week 9)
 
-**Day 16: GANs** 5/22/2019
+**Day 17: GANs** 11/25
 - Lecture: ([pdf](https://drive.google.com/open?id=1qfMY1_mwNUEihcAkB_iIAilbwW6Z3hGf))
 - StyleGAN, BigGAN, CycleGAN, DCGAN, Pix2Pix on code repository: [https://github.com/roberttwomey/ml-art-code/tree/master/week8](https://github.com/roberttwomey/ml-art-code/tree/master/week8)
   - Ian Goodfellow tutorial on GANs, NeurIPS 2016 [https://www.youtube.com/watch?v=RvgYvHyT15E](https://www.youtube.com/watch?v=RvgYvHyT15E)
 - Art using GANs
-
 ## Visual (Week 9)
 
-**Day 17: MEMORIAL DAY** 5/27/2019
-
-No class!
-
-**Day 18: Recognition** 5/29/2019
+**Day 18: Recognition** 11/27
 - Lecture: ([pdf](https://drive.google.com/file/d/1RL5Ba3pkx0q9n3Bm2GRCtwce7BKqxP42/view?usp=sharing))
 - Image Captioning with Visual Attention (MS-COCO)
   - https://colab.research.google.com/drive/1sGC26H7zIZEWrMdI-LN7cIWsF0Ak9tx9
 - Semantic Segmentation
 - Art using Segmentation and Captioning
-- Project 4 Work Time 
-
-**Project 4 due** 5/31/2019 at 12:30pm
+- Project 3 Work Time 
 
 ## Final Project Development (Week 10)
 
-**Day 19: Platforms** 6/3/2019
-- Lecture ([pdf](https://drive.google.com/open?id=1_y2vRaHguQ-4S29ax4L-3AuSId3dHqrI))
+**Project 3 due:** 12/1, 11:59pm.
+
+**Day 19: Project 3 Critique** 12/2
+
+**Day 20: Platforms** 12/4
+- Lecture ([pdf]())
   - What is Datahub?
   - Embedded systems (NVIDIA jetson nano, Google Coral, TPUs, others)
   - Tools (DNNWeaver)  
@@ -280,50 +255,46 @@ No class!
   - An extended project report (4 pages): [google docs](https://docs.google.com/document/d/133H59WZBmH6MlAgFSskFLMQITeIC5d9b2iuzsOfa4E8/edit?usp=sharing)
   - By wednesday: accept the classroom assignment, fill in your abstract/proposal. Check in with me on Wednesday during class.
 - Inspiration for final projects (from your peers at CMU)
-  - CMU ArtML Spring 19 Finals: http://kangeunsu.com/artml19s/gallery.html
-  
-**Day 20: Work time, Q&A** 6/5/2019
+  - CMU ArtML Spring 19 Finals: http://kangeunsu.com/artml19s/gallery.html  
 - Individual meetings regarding final project.
 
 ## Final Presentations / Exhibition (Finals Week)
 
-**FINAL TIME:** Wednesday June 12, 11:30am-2:30pm. JKW Auditorium in CMRR.
-
-PROJECT DUE: 11:30am, Wednesday June 12. 
-
-REPORT DUE: 11:59pm, Friday June 12 (add to your github repository as pdf)
+**FINAL TIME:** Wednesday December 11, 8-11am. Location TBD.
+- PROJECT DUE: 8am, Wednesday December 11. 
+- REPORT DUE: 11:59pm, Friday December 13 (add to your github repository as pdf)
 
 # Projects
 
 ## Project 1: Generative Text
 
-[Generative Text Assignment](https://docs.google.com/document/d/17FX0Vt3ur9QVmhnq4n4JJ0dmqBJuKIKGrslLoAkDpeM/export?format=pdf), due 4/18/2019, 11:59pm.
+[Generative Text Assignment](https://docs.google.com/document/d/17FX0Vt3ur9QVmhnq4n4JJ0dmqBJuKIKGrslLoAkDpeM/export?format=pdf). Due 10/20/2019, 11:59pm.
 
-Submit online to github classroom: [https://classroom.github.com/a/F_S6X9eN](https://classroom.github.com/a/F_S6X9eN)
+Submit online to github classroom: []()
 
 ## Project 2: Generative Audio
 
-[Generative Audio Assignment](https://docs.google.com/document/d/17ZUUWZr7jIhGKwxe_Rj8DlAA6yyrd2YRls66fZOuQK0/edit?usp=sharing), due 5/16/2019, 11:59pm. 
+[Generative Audio Assignment](). Due 11/12/2019, 11:59pm. 
 
-Submit online to github classroom: [https://classroom.github.com/a/JPtQMEm9](https://classroom.github.com/a/JPtQMEm9)
+Submit online to github classroom: []()
 
 ## Project 3: Generative Visual
 
-Due 5/31/2019, 12:30pm. Open ended.
+[Generative Visual Assignment(). Due 12/1/2019, 11:59pm. Open ended.
 
-Submit online to github classroom: [https://classroom.github.com/g/tngoWMjM](https://classroom.github.com/g/tngoWMjM)
+Submit online to github classroom: []()
 
 ## Final Project: Revisit One Project for Exhibit
 
 Refine, enhance, extend one of your earlier projects for the showcase during Finals Week. 
 
-PROJECT DUE 6/12, 11:30am-2:30pm. JKW Auditorium in CMRR.
+PROJECT DUE 12/11, 8-11am. Location TBD.
 
-REPORT DUE 6/14, 11:59pm. Add the pdf to your github, please.
+REPORT DUE 12/13, 11:59pm. Add the pdf to your github, please.
 
 For the final project you will need to submit two things: 
-- Project repository as usual through github classroom: [https://classroom.github.com/g/pEWp059E](https://classroom.github.com/g/pEWp059E)
-- An extended project report (4 pages): [google docs](https://docs.google.com/document/d/133H59WZBmH6MlAgFSskFLMQITeIC5d9b2iuzsOfa4E8/edit?usp=sharing)
+- Project repository as usual through github classroom: []()
+- An extended project report (4 pages): [google docs]()
 
 # Addenda
 
@@ -338,3 +309,12 @@ We do our processing on datahub.ucsd.edu. Here is their instruction manual:
 - detailed instructions [https://docs.google.com/document/u/1/d/e/2PACX-1vR-tC1oL6J9RJxSP42iWr8BukgRO9ohcybFXPn95yjQQLvv4iNP5Tlbzx06rQtPA-fLex2N_MVjzgAR/pub?embedded=true#h.lyhc4mlbki3f](https://docs.google.com/document/u/1/d/e/2PACX-1vR-tC1oL6J9RJxSP42iWr8BukgRO9ohcybFXPn95yjQQLvv4iNP5Tlbzx06rQtPA-fLex2N_MVjzgAR/pub?embedded=true#h.lyhc4mlbki3f)
 - making custom Docker containers to run on dsmlp [https://docs.google.com/document/d/1LPfqHvk2Itm_ckafrxRVxXQdr5BSozjsv_TURQDj9x8/edit](https://docs.google.com/document/d/1LPfqHvk2Itm_ckafrxRVxXQdr5BSozjsv_TURQDj9x8/edit)
 
+## Accomodations
+The Office for Students with Disabilities (OSD), an Academic Affairs department, is responsible for the review of medical documentation and the determination of reasonable accommodations based on a disability. Authorization for Accommodation (AFA) letters are issued by the OSD and given to undergraduate, graduate, and Professional School students directly. If you have an AFA letter, meet with the CSE Student Affairs representative, and schedule an appointment with your instructor by the end of Week 2 to ensure that reasonable accommodations for the quarter can be arranged.
+
+## Diversity and Inclusion
+We are committed to fostering a learning environment for this course that supports a diversity of thoughts, perspectives and experiences, and respects your identities (including race, ethnicity, heritage, gender, sex, class, sexuality, religion, ability, age, educational background, etc.). Our goal is to create a diverse and inclusive learning environment where all students feel comfortable and can thrive.
+
+Our instructional staff will make a concerted effort to be welcoming and inclusive to the wide diversity of students in this course. If there is a way we can make you feel more included please let one of the course staff know, either in person, via email/discussion board, or even in a note under the door. Our learning about diverse perspectives and identities is an ongoing process, and we welcome your perspectives and input.
+
+We also expect that you, as a student in this course, will honor and respect your classmates, abiding by the UCSD Principles of Community [https://ucsd.edu/about/principles.html](https://ucsd.edu/about/principles.html). Please understand that others’ backgrounds, perspectives and experiences may be different than your own, and help us to build an environment where everyone is respected and feels comfortable.If you experience any sort of harassment or discrimination, please contact the instructor as soon as possible. If you prefer to speak with someone outside of the course, please contact the Office of Prevention of Harassment and Discrimination: [https://ophd.ucsd.edu/](https://ophd.ucsd.edu/)
