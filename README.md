@@ -297,7 +297,7 @@ REPORT DUE: 11:59pm, Friday June 12 (add to your github repository as pdf)
 
 ## Project 1: Generative Text
 
-[Generative Text Assignment](https://docs.google.com/document/d/17FX0Vt3ur9QVmhnq4n4JJ0dmqBJuKIKGrslLoAkDpeM/edit?export=pdf), due 4/18/2019, 11:59pm.
+[Generative Text Assignment](https://docs.google.com/document/d/17FX0Vt3ur9QVmhnq4n4JJ0dmqBJuKIKGrslLoAkDpeM/export?format=pdf), due 4/18/2019, 11:59pm.
 
 Submit online to github classroom: [https://classroom.github.com/a/F_S6X9eN](https://classroom.github.com/a/F_S6X9eN)
 
