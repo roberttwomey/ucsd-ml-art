@@ -73,7 +73,8 @@ We will have critique/group discussion for each of the projects this quarter.
   - Enrollment questions?
   - Sign up for slack [https://join.slack.com/t/ucsd-ml-art/signup](https://join.slack.com/t/ucsd-ml-art/signup)
   - Log onto datahub
-  - File->Clone repository `git clone `
+  - Clone repository: **New->Terminal**:
+    - `git clone https://github.com/roberttwomey/ml-art-code/`
 
 **Homework:** Post something you are interested in (a project, paper, github link) to [#shiny](https://ucsd-ml-art.slack.com/messages/CHJDGRV0X).
 
