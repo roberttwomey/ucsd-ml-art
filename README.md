@@ -102,7 +102,7 @@ We will have critique/group discussion for each of the projects this quarter.
     - Generative text (recipes, poetry, fiction, screenplays, etc…)
     - How to compose / harness RNN creativity?
 - **Assign Project 1: Generative Text** 
-  - [Generative Text Assignment](https://docs.google.com/document/d/13ueceIyuUc4ATD7B-SFZK641MycFZ57eZ9n1lQ3Y1CM/edit?usp=sharing), due 4/18/2019, 11:59pm.
+  - [Generative Text Assignment](https://docs.google.com/document/d/17FX0Vt3ur9QVmhnq4n4JJ0dmqBJuKIKGrslLoAkDpeM/export?format=pdf). Due 10/20/2019, 11:59pm.
 
 **Day 4: Text part 2** 10/9
 - Lecture ([pdf]())
