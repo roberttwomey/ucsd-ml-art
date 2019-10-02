@@ -84,10 +84,9 @@ We will have critique/group discussion for each of the projects this quarter.
   - Survey of notable work in Art and ML
   - NN Basics
 
-**Lab 1: Get set up in our environment** 
+**Lab 1: Make sure you can log in** 
 - Hands-on with datahub.ucsd.edu, jupyter
-- Confirm everyone's logon works
-- Work through RNN text example.
+- Confirm everyone's logon works for datahub.ucsd.edu.
 - Help? 
 
 **Homework:** Read Andrej Karpathy's _The Unreasonable Effectiveness of RNNs_ (2015) [http://karpathy.github.io/2015/05/21/rnn-effectiveness/](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
