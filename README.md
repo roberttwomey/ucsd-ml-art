@@ -79,9 +79,10 @@ We will have critique/group discussion for each of the projects this quarter.
 **Homework:** Post something you are interested in (a project, paper, github link) to [#shiny](https://ucsd-ml-art.slack.com/messages/CHJDGRV0X).
 
 **Day 2: Introduction to ML and the Arts** 10/2
-- Lecture ([pdf]())
+- Lecture ([pdf](https://drive.google.com/open?id=17jwUvIypWtmXWn7B6dOS9Yq5GcHVbrtc))
   - Generative Systems in Art Overview
   - Survey of notable work in Art and ML
+  - NN Basics
 
 **Lab 1: Get set up in our environment** 
 - Hands-on with datahub.ucsd.edu, jupyter
