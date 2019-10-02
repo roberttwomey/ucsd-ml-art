@@ -89,7 +89,7 @@ We will have critique/group discussion for each of the projects this quarter.
 - Work through RNN text example.
 - Help? 
 
-**Homework:** Read Andrej Karpathy's _The Unreasonable Effectiveness of RNNs__ (2015) http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+**Homework:** Read Andrej Karpathy's _The Unreasonable Effectiveness of RNNs_ (2015) [http://karpathy.github.io/2015/05/21/rnn-effectiveness/](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
 ## Text Generation (Week 2)
 
