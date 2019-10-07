@@ -143,7 +143,7 @@ We will have critique/group discussion for each of the projects this quarter.
 
 **Project 1 Due** 10/20 11:59pm
 
-- Submit assignment to github classroom. Use the link below.
+- Submit assignment to github classroom. Use the github classroom below: [Project 1](#project-1-generative-text)
 
 **Day 7: Project 1 discussion** 10/21
 - Bring printed copy of your project and abstract. 
