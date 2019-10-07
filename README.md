@@ -21,6 +21,7 @@ This project-based course will be conducted primarily in python using free, open
 - **Lecture:** MW 9:30-11:00pm
 - **Lab:** MW 11:00-12:30pm
 - **Location:** EBU1 2315
+- **Office Hours:** Friday 10am-noon, Atkinson 1611
 
 # Resources
 * **Discussion:** we will use slack for discussion [https://join.slack.com/t/ucsd-ml-art/signup](https://join.slack.com/t/ucsd-ml-art/signup) (join with your @ucsd.edu or @eng.ucsd.edu account)
