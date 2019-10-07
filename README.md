@@ -102,6 +102,8 @@ We will have critique/group discussion for each of the projects this quarter.
     - How to compose / harness RNN creativity?
 - **Assign Project 1: Generative Text** 
   - [Generative Text Assignment](https://docs.google.com/document/d/17FX0Vt3ur9QVmhnq4n4JJ0dmqBJuKIKGrslLoAkDpeM/export?format=pdf). Due 10/20/2019, 11:59pm.
+  - Examples of student projects from last quarter.
+  - Questions?
 
 **Day 4: Text part 2** 10/9
 - Lecture ([pdf]())
