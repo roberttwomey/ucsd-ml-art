@@ -1,6 +1,3 @@
-# NOTE: FALL 2019
-If you intend to enroll for Fall 2019, please fill out this questionnare: [https://forms.gle/iHiggRiVbPUsWMm46](https://forms.gle/iHiggRiVbPUsWMm46), and enroll for the class through the [EASy system](https://academicaffairs.ucsd.edu/Modules/Students/PreAuth/). 
-
 # ECE 188: Machine Learning for the Arts - Fall 2019
 
 [Resources](#resources) | [Policies](#policies) | [Schedule](#schedule) | [Projects](#projects) | [Accomodations](#accomodations) | [Diversity and Inclusion](#diversity-and-inclusion)
@@ -277,7 +274,7 @@ We will have critique/group discussion for each of the projects this quarter.
 
 [Generative Text Assignment](https://docs.google.com/document/d/17FX0Vt3ur9QVmhnq4n4JJ0dmqBJuKIKGrslLoAkDpeM/export?format=pdf). Due 10/20/2019, 11:59pm.
 
-Submit online to github classroom: []()
+Submit online to github classroom: [https://classroom.github.com/g/sJIzmAcR](https://classroom.github.com/g/sJIzmAcR)
 
 ## Project 2: Generative Audio
 
@@ -304,6 +301,9 @@ For the final project you will need to submit two things:
 - An extended project report (4 pages): [google docs]()
 
 # Addenda
+
+## Enrollment Fall 2019
+If you intend to enroll for Fall 2019, please fill out this questionnare: [https://forms.gle/iHiggRiVbPUsWMm46](https://forms.gle/iHiggRiVbPUsWMm46), and enroll for the class through the [EASy system](https://academicaffairs.ucsd.edu/Modules/Students/PreAuth/). 
 
 ## CMU Collaboration
 
