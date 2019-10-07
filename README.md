@@ -91,9 +91,10 @@ We will have critique/group discussion for each of the projects this quarter.
 ## Text Generation (Week 2)
 
 **Day 3: Generative Text** 10/7
-- Lecture ([pdf]())
+- Lecture ([pdf](https://drive.google.com/open?id=1LIfsYbEd8JDvDXDirf_SU6Kk2tQPiLnM))
   - Approaches to generative text
     - RNNs (karpathy) (character level)
+    - LSTM/GRU
   - Practical Issues
     - Where to get a textual corpus. 
     - Working with textual corpora (cleaning, parsing, etc.)
