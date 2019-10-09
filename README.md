@@ -108,26 +108,32 @@ We will have critique/group discussion for each of the projects this quarter.
   - Questions?
 
 **Day 4: Text part 2** 10/9
-- Lecture ([pdf]())
+- Lecture ([pdf](https://drive.google.com/open?id=1yzy1bKY7Nf_wHvL6sxyMu9Vi0fX1fCZu))
+  - Transformers and Attention 
+  - Fine-tuning
   - Case Study: GPT, GPT-2
-  - Chatbots (the eliza effect)
-    - seq2seq models
-  - Issues
-    - Sense and non-sense with ML
-    - Wilful suspension of disbelief
 
-**Lab 2: Project 1 Work Time**
-- Q&A about projects.
-
+**Lab 2: GPT-2 Examples**
+- 
 ## Time Series in ML (Week 3)
 
-**Day 5: Autoencoders, Embeddings, Sketch-RNN** 10/14
+**Day 5: Seq2Seq, Chatbots** 10/14
+- Lecture ([pdf]())
+  - More seq2seq, Neural Machine Translation examples
+  - Chatbots (the eliza effect)
+   - seq2seq models
+  - Issues
+   - Sense and non-sense with ML.
+   - Wilful suspension of disbelief
+   - Projective psychology
+
+**Day 6: Hands-On with VAE, Sketch-RNN** 10/16
+Autoencoders, Embeddings, Sketch-RNN
 - Lecture ([pdf]())
   - VAEs (MNIST VAE)
   - Latent representation, Embeddings
   - Modeling Drawings (Sketch-RNN)
 
-**Day 6: Hands-On with VAE, Sketch-RNN** 10/16
 - Talk about how to submit project 1.
 - In-class activities with VAE and Sketch-RNN code.
 - Clone the code repository into your datahub: ```git clone https://github.com/roberttwomey/ml-art-class```
