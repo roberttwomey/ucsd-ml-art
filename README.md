@@ -117,17 +117,23 @@ We will have critique/group discussion for each of the projects this quarter.
 - 
 ## Time Series in ML (Week 3)
 
-**Day 5: Seq2Seq, Chatbots** 10/14
+**Day 5: Chatbots** 10/14
 - Lecture ([pdf]())
-  - More seq2seq, Neural Machine Translation examples
   - Chatbots (the eliza effect)
-   - seq2seq models
   - Issues
    - Sense and non-sense with ML.
    - Wilful suspension of disbelief
    - Projective psychology
+   - Learning?
+**Lab: Chatbots**
+- Hands on with chatbots:
+  - ELIZA: [https://www.masswerk.at/elizabot/](https://www.masswerk.at/elizabot/)
+  - Alicebot Alysse: [http://demo.vhost.pandorabots.com/pandora/talk?botid=829713883e34f760](http://demo.vhost.pandorabots.com/pandora/talk?botid=829713883e34f760)
+  - Cleverbot: [https://www.cleverbot.com/](https://www.cleverbot.com/)
+  - Hugging Face chatbot demo: [https://convai.huggingface.co/](https://www.cleverbot.com/)
+- Check in regarding project1 idea
 
-**Day 6: Hands-On with VAE, Sketch-RNN** 10/16
+**Day 6: Autoencoders, Embeddings, Sketch-RNN** 10/16
 Autoencoders, Embeddings, Sketch-RNN
 - Lecture ([pdf]())
   - VAEs (MNIST VAE)
