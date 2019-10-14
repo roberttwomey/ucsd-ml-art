@@ -118,7 +118,7 @@ We will have critique/group discussion for each of the projects this quarter.
 ## Time Series in ML (Week 3)
 
 **Day 5: Chatbots** 10/14
-- Lecture ([pdf]())
+- Lecture ([pdf](https://drive.google.com/open?id=1qjeE2ZlX-0XVfThCwBPoCgpFb1rsdm2v))
   - Chatbots (the eliza effect)
   - Issues
    - Sense and non-sense with ML.
