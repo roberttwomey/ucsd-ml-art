@@ -114,6 +114,7 @@ We will have critique/group discussion for each of the projects this quarter.
   - Case Study: GPT, GPT-2
 
 **Lab 2: GPT-2 Examples**
+
 **Homework: Project proposal**
 - Please clone the project1 repository from github classroom, and edit the abstract to be a description of your proposed project.
 
@@ -127,6 +128,7 @@ We will have critique/group discussion for each of the projects this quarter.
    - Wilful suspension of disbelief
    - Projective psychology
    - Learning?
+   
 **Lab: Chatbots**
 - Hands on with chatbots:
   - ELIZA: [https://www.masswerk.at/elizabot/](https://www.masswerk.at/elizabot/)
@@ -142,6 +144,7 @@ Autoencoders, Embeddings, Sketch-RNN
   - Latent representation, Embeddings
   - Modeling Drawings (Sketch-RNN)
 - Talk about how to submit project 1.
+
 **Lab: Autoencoders and online Sketch-RNN demos**
 - Work through:
   - Autoencoders.ipynb
