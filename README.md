@@ -147,14 +147,14 @@ Autoencoders, Embeddings, Sketch-RNN
 
 **Lab: Autoencoders and online Sketch-RNN demos**
 - Work through:
-  - Autoencoders.ipynb
+  - week3/Autoencoders.ipynb
   - Sketch-RNN interactive demos.
   
 **Homework: Project 1**
 - Reminder Project 1 is due Sunday night at midnight (10/20), we will spend Monday's class critiquing (in class discussion)
 - __Bring a printed copy of your project!__
 
-## Drawing cont., Generative Audio (Week 4)
+## Generative Audio (Week 4)
 
 **Project 1 Due** 10/20 11:59pm
 
@@ -165,8 +165,9 @@ Autoencoders, Embeddings, Sketch-RNN
 - Discuss in small groups (20 minutes)
 - Present selected projects to class (50 minutes)
 
-**Day 8: Handwriting** 10/23
+**Day 8: Intro to Gnerative Audio** 10/23
 - Lecture ([pdf]())
+- Handwriting
 - Mixture Density Networks (MDNs)
 - Alex Graves sequence paper, generative handwriting models
 
