@@ -114,7 +114,9 @@ We will have critique/group discussion for each of the projects this quarter.
   - Case Study: GPT, GPT-2
 
 **Lab 2: GPT-2 Examples**
-- 
+**Homework: Project proposal**
+- Please clone the project1 repository from github classroom, and edit the abstract to be a description of your proposed project.
+
 ## Time Series in ML (Week 3)
 
 **Day 5: Chatbots** 10/14
@@ -139,18 +141,14 @@ Autoencoders, Embeddings, Sketch-RNN
   - VAEs (MNIST VAE)
   - Latent representation, Embeddings
   - Modeling Drawings (Sketch-RNN)
-
 - Talk about how to submit project 1.
-- In-class activities with VAE and Sketch-RNN code.
-- Clone the code repository into your datahub: ```git clone https://github.com/roberttwomey/ml-art-class```
+**Lab: Autoencoders and online Sketch-RNN demos**
 - Work through:
-  - 01_mnist_vae.ipynb
-  - 02_sketch_rnn.ipynb
-  - Start training a sketch-rnn model on google colab
-
-**Assign Project 2:** Generative Audio. See [#projects](#projects)
-- Due 11/10, 11:59pm. Submit online to github classroom.
-
+  - Autoencoders.ipynb
+  - Sketch-RNN interactive demos.
+**Homework: Project 1**
+- Reminder project 1 is due Sunday night at midnight (10/20), we will spend Monday's class critiquing (in class discussion)
+- __Bring a printed copy of your project!__
 
 ## Drawing cont., Generative Audio (Week 4)
 
