@@ -137,7 +137,7 @@ We will have critique/group discussion for each of the projects this quarter.
 
 **Day 6: Autoencoders, Embeddings, Sketch-RNN** 10/16
 Autoencoders, Embeddings, Sketch-RNN
-- Lecture ([pdf]())
+- Lecture ([pdf](https://drive.google.com/open?id=1TaidNOomzcQ3zK8asDr6U6i_didF8kp9))
   - VAEs (MNIST VAE)
   - Latent representation, Embeddings
   - Modeling Drawings (Sketch-RNN)
@@ -146,8 +146,9 @@ Autoencoders, Embeddings, Sketch-RNN
 - Work through:
   - Autoencoders.ipynb
   - Sketch-RNN interactive demos.
+  
 **Homework: Project 1**
-- Reminder project 1 is due Sunday night at midnight (10/20), we will spend Monday's class critiquing (in class discussion)
+- Reminder Project 1 is due Sunday night at midnight (10/20), we will spend Monday's class critiquing (in class discussion)
 - __Bring a printed copy of your project!__
 
 ## Drawing cont., Generative Audio (Week 4)
