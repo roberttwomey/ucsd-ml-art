@@ -166,25 +166,17 @@ Autoencoders, Embeddings, Sketch-RNN
 - Present selected projects to class (50 minutes)
 
 **Day 8: Intro to Gnerative Audio** 10/23
-- Lecture ([pdf]())
-- Handwriting
-- Mixture Density Networks (MDNs)
-- Alex Graves sequence paper, generative handwriting models
-
-## Audio Continued (Week 5)
-
-**Day 9: Generative Audio** 10/28
 - Lecture: History of generative music ([pdf]()]
-- Hands-on with contemporary music generators
+- Lab: Hands-on with contemporary music generators
   - NSynth: [blog](https://magenta.tensorflow.org/nsynth), [interactive example](https://experiments.withgoogle.com/ai/sound-maker/view/)
   - MusicVAE: [blog](https://magenta.tensorflow.org/music-vae), [interactive example](https://magenta.tensorflow.org/multitrack)
   - PerformanceRNN: [blog](https://magenta.tensorflow.org/performance-rnn), [interactive example](https://magenta.tensorflow.org/performance-rnn-browser)
   - GANSynth: [blog](https://magenta.tensorflow.org/gansynth), [interactive colab example](https://colab.research.google.com/notebooks/magenta/gansynth/gansynth_demo.ipynb)
   - Music Transformer: [blog](https://magenta.tensorflow.org/music-transformer)
 
-- Lab: Project 2 Work
+## Audio Continued (Week 5)
 
-**Day 10: Generative Networks for Music** 10/30
+**Day 9: Generative Networks for Music** 10/28
 - Check in on any last minute questions for Project 2
 - Hands on with ML Music:
   - In small groups, work through these examples from the code repository (divide, conquer, and share!): [https://github.com/roberttwomey/ml-art-code/blob/master/week5/01_Activities.ipynb](https://github.com/roberttwomey/ml-art-code/blob/master/week5/01_Activities.ipynb)
@@ -195,17 +187,16 @@ Autoencoders, Embeddings, Sketch-RNN
     - direct sound synthesis
     - sound latent-space interpolation.
   
-## Audio, then Visual Processing (Week 6)
-
-**Day 11: Speech Generation** 11/4
+**Day 10: Speech Generation** 10/30
 - Lecture ([pdf]())
   - Text to Speech 
   - Vocoders, Unit Selection
   - Art with Speech Synthesis
   - ML(Tacotron, WaveGlow)
+  
+## Audio, then Visual Processing (Week 6)
 
-**Day 12: Visual Processing** 11/6
-
+**Day 11: Visual Processing** 11/4
 - Lecture: CNNs and Neural Style ([pdf]())
   - CNNs vs other NNs. 
     - LeNet
@@ -215,8 +206,16 @@ Autoencoders, Embeddings, Sketch-RNN
 - Lab: [https://github.com/roberttwomey/ml-art-code/tree/master/week6_cnn
 ](https://github.com/roberttwomey/ml-art-code/tree/master/week6_cnn
 )
-
-**Assign Project 4: Generative Visual**
+**Day 12: Style Transfer, Continued** 11/6
+  - Fast Style Transfer
+  - Arbitrary Style Transfer
+  - Deep Photo Stylization
+  - Popular applications
+- Lab: 
+  - [https://github.com/roberttwomey/ml-art-code/tree/master/week7_style](https://github.com/roberttwomey/ml-art-code/tree/master/week7_style)
+  - Fast Style, Arbitrary Style, Deep Photo Style
+  
+**Assign Project 3: Generative Visual**
 
 ## Visual Continued (Week 7)
 
@@ -226,35 +225,25 @@ Autoencoders, Embeddings, Sketch-RNN
 
 **Day 14: Critique: Project 2** 11/13
 
-
 ## Visual Continued (Week 8)
 
-**Day 15: Style Transfer, Continued** 11/18
-- Lecture: [pdf]()
-  - Fast Style Transfer
-  - Arbitrary Style Transfer
-  - Deep Photo Stylization
-  - Popular applications
-- Lab: 
-  - [https://github.com/roberttwomey/ml-art-code/tree/master/week7_style](https://github.com/roberttwomey/ml-art-code/tree/master/week7_style)
-  - Fast Style, Arbitrary Style, Deep Photo Style
-
-**Day 16: Deep Dream and Gradient Ascent** 11/20
+**Day 15: Deep Dream and Gradient Ascent** 11/18
 - Lecture: ([pdf]())
 - Neural Doodle [https://datahub.ucsd.edu/user/rtwomey/tree/ml-art-code/week8/Neural_Doodle_keras](https://datahub.ucsd.edu/user/rtwomey/tree/ml-art-code/week8/Neural_Doodle_keras)
 - Deep Dream [https://datahub.ucsd.edu/user/rtwomey/tree/ml-art-code/week8/deepdream](https://datahub.ucsd.edu/user/rtwomey/tree/ml-art-code/week8/deepdream)
   - Gradient Ascent, maximal activation/excitation
 
-** GANs and Perceptive ML (Week 9)
+**Day 16: GANs** 11/20
 
-**Day 17: GANs** 11/25
-- Lecture: ([pdf]())
+** GANs and Perceptive ML (Week 9)
 - StyleGAN, BigGAN, CycleGAN, DCGAN, Pix2Pix on code repository: [https://github.com/roberttwomey/ml-art-code/tree/master/week8](https://github.com/roberttwomey/ml-art-code/tree/master/week8)
   - Ian Goodfellow tutorial on GANs, NeurIPS 2016 [https://www.youtube.com/watch?v=RvgYvHyT15E](https://www.youtube.com/watch?v=RvgYvHyT15E)
 - Art using GANs
+
+
 ## Visual (Week 9)
 
-**Day 18: Recognition** 11/27
+**Day 17: Recognition** 11/25
 - Lecture: ([pdf]())
 - Image Captioning with Visual Attention (MS-COCO)
   - https://colab.research.google.com/drive/1sGC26H7zIZEWrMdI-LN7cIWsF0Ak9tx9
@@ -262,14 +251,8 @@ Autoencoders, Embeddings, Sketch-RNN
 - Art using Segmentation and Captioning
 - Project 3 Work Time 
 
-## Final Project Development (Week 10)
-
-**Project 3 due:** 12/1, 11:59pm.
-
-**Day 19: Project 3 Critique** 12/2
-
-**Day 20: Platforms** 12/4
-- Lecture ([pdf]())
+**Day 18: Platforms** 11/27
+- Lecture: ([pdf]())
   - What is Datahub?
   - Embedded systems (NVIDIA jetson nano, Google Coral, TPUs, others)
   - Tools (DNNWeaver)  
@@ -280,6 +263,15 @@ Autoencoders, Embeddings, Sketch-RNN
 - Inspiration for final projects (from your peers at CMU)
   - CMU ArtML Spring 19 Finals: http://kangeunsu.com/artml19s/gallery.html  
 - Individual meetings regarding final project.
+
+## Final Project Development (Week 10)
+
+**Project 3 due:** 12/1, 11:59pm.
+
+**Day 19: Project 3 Critique** 12/2
+
+**Day 20: Q+A / Work Time ** 12/4
+- No Lecture ([pdf]())
 
 ## Final Presentations / Exhibition (Finals Week)
 
@@ -299,7 +291,7 @@ Submit online to github classroom: [https://classroom.github.com/g/sJIzmAcR](htt
 
 [Generative Audio Assignment](https://docs.google.com/document/d/1E82WjOp3p1bXCeR43iGgG39zHPr8u-6_kYFB9RXyhFY/export?format=pdf). Due 11/12/2019, 11:59pm. 
 
-Submit online to github classroom: []()
+Submit online to github classroom: [https://classroom.github.com/g/ujfzX5W](https://classroom.github.com/g/ujfzX5W)
 
 ## Project 3: Generative Visual
 
