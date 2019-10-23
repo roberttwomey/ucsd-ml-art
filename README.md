@@ -177,7 +177,8 @@ Autoencoders, Embeddings, Sketch-RNN
 ## Audio Continued (Week 5)
 
 **Day 9: Generative Networks for Music** 10/28
-- Check in on any last minute questions for Project 2
+- Lecture: tbd ([pdf]())
+- Examples of Project 2 from last quarter. 
 - Hands on with ML Music:
   - In small groups, work through these examples from the code repository (divide, conquer, and share!): [https://github.com/roberttwomey/ml-art-code/blob/master/week5/01_Activities.ipynb](https://github.com/roberttwomey/ml-art-code/blob/master/week5/01_Activities.ipynb)
   - Covering:
