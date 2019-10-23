@@ -165,8 +165,8 @@ Autoencoders, Embeddings, Sketch-RNN
 - Discuss in small groups (20 minutes)
 - Present selected projects to class (50 minutes)
 
-**Day 8: Intro to Gnerative Audio** 10/23
-- Lecture: History of generative music ([pdf]()]
+**Day 8: Intro to Generative Audio** 10/23
+- Lecture: History of generative music ([pdf](https://drive.google.com/open?id=1SfyC-SuYydrUaLC6b_8rosExbc3beamP)]
 - Lab: Hands-on with contemporary music generators
   - NSynth: [blog](https://magenta.tensorflow.org/nsynth), [interactive example](https://experiments.withgoogle.com/ai/sound-maker/view/)
   - MusicVAE: [blog](https://magenta.tensorflow.org/music-vae), [interactive example](https://magenta.tensorflow.org/multitrack)
