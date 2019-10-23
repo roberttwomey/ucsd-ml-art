@@ -297,7 +297,7 @@ Submit online to github classroom: [https://classroom.github.com/g/sJIzmAcR](htt
 
 ## Project 2: Generative Audio
 
-[Generative Audio Assignment](). Due 11/12/2019, 11:59pm. 
+[Generative Audio Assignment](https://docs.google.com/document/d/1E82WjOp3p1bXCeR43iGgG39zHPr8u-6_kYFB9RXyhFY/export?format=pdf). Due 11/12/2019, 11:59pm. 
 
 Submit online to github classroom: []()
 
