@@ -309,7 +309,7 @@ Submit online to github classroom: [https://classroom.github.com/g/sJIzmAcR](htt
 
 [Generative Audio Assignment](https://docs.google.com/document/d/1E82WjOp3p1bXCeR43iGgG39zHPr8u-6_kYFB9RXyhFY/export?format=pdf). Due 11/12/2019, 11:59pm. 
 
-Submit online to github classroom: [https://classroom.github.com/g/ujfzX5W](https://classroom.github.com/g/ujfzX5W)
+Submit online to github classroom: [https://classroom.github.com/g/ujfzX5Wp](https://classroom.github.com/g/ujfzX5Wp)
 
 ## Project 3: Generative Visual
 
