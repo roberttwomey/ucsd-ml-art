@@ -177,7 +177,7 @@ Autoencoders, Embeddings, Sketch-RNN
 ## Audio Continued (Week 5)
 
 **Day 9: Generative Networks for Music** 10/28
-- Lecture: tbd ([pdf]())
+- Lecture: Contemporary Musicians using AI ([pdf](https://drive.google.com/open?id=1QdkvtpchKBNwihGf-ZhHf6heQSD5fuG-))
 - Examples of Project 2 from last quarter. 
 - Hands on with ML Music:
   - In small groups, work through these examples from the code repository (divide, conquer, and share!): [https://github.com/roberttwomey/ml-art-code/blob/master/week5/01_Activities.ipynb](https://github.com/roberttwomey/ml-art-code/blob/master/week5/01_Activities.ipynb)
@@ -189,11 +189,24 @@ Autoencoders, Embeddings, Sketch-RNN
     - sound latent-space interpolation.
   
 **Day 10: Speech Generation** 10/30
-- Lecture ([pdf]())
+- Lecture ([pdf](https://drive.google.com/open?id=11SIAljfUtgI6ZK3rMQMxbD-7ADl0ahea))
   - Text to Speech 
   - Vocoders, Unit Selection
   - Art with Speech Synthesis
-  - ML(Tacotron, WaveGlow)
+  - ML(Tacotron, WaveGlow, DeepVoice, DeepSpeech)
+  
+ **Lab: Hands-On with ML Speech**
+
+_Synthesis_:
+
+DeepVoice
+  - [DeepVoice3: Single-speaker text-to-speech demo](https://colab.research.google.com/github/r9y9/Colaboratory/blob/master/DeepVoice3_single_speaker_TTS_en_demo.ipynb)
+  - [DeepVoice3: Multi-speaker text-to-speech demo](https://colab.research.google.com/github/r9y9/Colaboratory/blob/master/DeepVoice3_multi_speaker_TTS_en_demo.ipynb)
+- [Tacotron2/WaveGlow](https://colab.research.google.com/github/pytorch/pytorch.github.io/blob/master/assets/hub/nvidia_deeplearningexamples_waveglow.ipynb)
+
+_Recognition:_
+
+- [DeepSpeech](https://github.com/roberttwomey/ml-art-code/blob/master/week5/mozilla_deepspeech.ipynb) on datahub
 
 **Homework: Project proposal**
 - Please clone the project2 repository from github classroom, and edit the abstract to be a description of your proposed project.
