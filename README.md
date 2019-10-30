@@ -194,8 +194,12 @@ Autoencoders, Embeddings, Sketch-RNN
   - Vocoders, Unit Selection
   - Art with Speech Synthesis
   - ML(Tacotron, WaveGlow)
-  
-## Audio, then Visual Processing (Week 6)
+
+**Homework: Project proposal**
+- Please clone the project2 repository from github classroom, and edit the abstract to be a description of your proposed project.
+  - I will discuss these individually with you during lab on Monday
+
+## Visual Processing (Week 6)
 
 **Day 11: Visual Processing** 11/4
 - Lecture: CNNs and Neural Style ([pdf]())
