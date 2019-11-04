@@ -221,9 +221,12 @@ _Recognition:_
     - VGG16, VGG19
   - A Neural Algorithm of Style.
   - Neural Style Transfer
-- Lab: [https://github.com/roberttwomey/ml-art-code/tree/master/week6_cnn
-](https://github.com/roberttwomey/ml-art-code/tree/master/week6_cnn
-)
+
+**Lab:** 
+- Week 6 LeNet CNN, VGG19 Classification, Neural Style: [https://github.com/roberttwomey/ml-art-code/tree/master/week6
+](https://github.com/roberttwomey/ml-art-code/tree/master/week6)
+- Talk about Project 2 ideas.
+
 **Day 12: Style Transfer, Continued** 11/6
   - Fast Style Transfer
   - Arbitrary Style Transfer
