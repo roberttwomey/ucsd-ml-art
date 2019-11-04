@@ -215,7 +215,7 @@ _Recognition:_
 ## Visual Processing (Week 6)
 
 **Day 11: Visual Processing** 11/4
-- Lecture: CNNs and Neural Style ([pdf]())
+- Lecture: CNNs and Neural Style ([pdf](https://drive.google.com/open?id=1wKY75xocKcn8Bb5HY3mpFpO1q6NLzVd5))
   - CNNs vs other NNs. 
     - LeNet
     - VGG16, VGG19
@@ -225,7 +225,7 @@ _Recognition:_
 **Lab:** 
 - Week 6 LeNet CNN, VGG19 Classification, Neural Style: [https://github.com/roberttwomey/ml-art-code/tree/master/week6
 ](https://github.com/roberttwomey/ml-art-code/tree/master/week6)
-- Talk about Project 2 ideas.
+- Individual meetings about Project 2 ideas.
 
 **Day 12: Style Transfer, Continued** 11/6
   - Fast Style Transfer
