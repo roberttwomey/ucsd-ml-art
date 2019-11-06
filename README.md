@@ -225,8 +225,8 @@ _Recognition:_
 ](https://github.com/roberttwomey/ml-art-code/tree/master/week6)
 - Individual meetings about Project 2 ideas.
 
-**Day 12: Style Transfer ** 11/6
-  -  A Neural Algorithm of Style.
+**Day 12: Style Transfer** 11/6
+- Lecture: Style Transfer ([pdf](https://drive.google.com/open?id=1qFNlYUB8ze5KEf3-iyIN_VJQMF0vkDB6))
   - Neural Style Transfer
   - Fast Style Transfer
   - Arbitrary Style Transfer
