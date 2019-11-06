@@ -215,29 +215,27 @@ _Recognition:_
 ## Visual Processing (Week 6)
 
 **Day 11: Visual Processing** 11/4
-- Lecture: CNNs and Neural Style ([pdf](https://drive.google.com/open?id=1wKY75xocKcn8Bb5HY3mpFpO1q6NLzVd5))
+- Lecture: CNNs ([pdf](https://drive.google.com/open?id=1wKY75xocKcn8Bb5HY3mpFpO1q6NLzVd5))
   - CNNs vs other NNs. 
     - LeNet
     - VGG16, VGG19
-  - A Neural Algorithm of Style.
-  - Neural Style Transfer
 
 **Lab:** 
 - Week 6 LeNet CNN, VGG19 Classification, Neural Style: [https://github.com/roberttwomey/ml-art-code/tree/master/week6
 ](https://github.com/roberttwomey/ml-art-code/tree/master/week6)
 - Individual meetings about Project 2 ideas.
 
-**Day 12: Style Transfer, Continued** 11/6
+**Day 12: Style Transfer ** 11/6
+  -  A Neural Algorithm of Style.
+  - Neural Style Transfer
   - Fast Style Transfer
   - Arbitrary Style Transfer
   - Deep Photo Stylization
   - Popular applications
 - Lab: 
-  - [https://github.com/roberttwomey/ml-art-code/tree/master/week7_style](https://github.com/roberttwomey/ml-art-code/tree/master/week7_style)
+  - [https://github.com/roberttwomey/ml-art-code/tree/master/week6](https://github.com/roberttwomey/ml-art-code/tree/master/week6)
   - Fast Style, Arbitrary Style, Deep Photo Style
   
-**Assign Project 3: Generative Visual**
-
 ## Visual Continued (Week 7)
 
 **Day 13: **VETERANS DAY NO CLASS** 11/11
@@ -253,6 +251,8 @@ _Recognition:_
 - Neural Doodle [https://datahub.ucsd.edu/user/rtwomey/tree/ml-art-code/week8/Neural_Doodle_keras](https://datahub.ucsd.edu/user/rtwomey/tree/ml-art-code/week8/Neural_Doodle_keras)
 - Deep Dream [https://datahub.ucsd.edu/user/rtwomey/tree/ml-art-code/week8/deepdream](https://datahub.ucsd.edu/user/rtwomey/tree/ml-art-code/week8/deepdream)
   - Gradient Ascent, maximal activation/excitation
+
+**Assign Project 3: Generative Visual**
 
 **Day 16: GANs** 11/20
 
