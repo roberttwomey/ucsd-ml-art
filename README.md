@@ -248,7 +248,7 @@ _Recognition:_
 ## Visual Continued (Week 8)
 
 **Day 15: Deep Dream and Gradient Ascent** 11/18
-- Lecture: ([pdf]())
+- Lecture: ([pdf](https://drive.google.com/open?id=1lrQGY3Nu1WuqiGfXfMNdhUztvn_IguR9))
   - Neural Doodle [https://github.com/roberttwomey/ml-art-code/tree/master/week8/Neural_Doodle_keras](https://github.com/roberttwomey/ml-art-code/tree/master/week8/Neural_Doodle_keras)
   - Deep Dream [https://github.com/roberttwomey/ml-art-code/tree/master/week8/deepdream](https://github.com/roberttwomey/ml-art-code/tree/master/week8/deepdream)
   - Gradient Ascent, maximal activation/excitation
