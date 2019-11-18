@@ -249,9 +249,10 @@ _Recognition:_
 
 **Day 15: Deep Dream and Gradient Ascent** 11/18
 - Lecture: ([pdf]())
-- Neural Doodle [https://github.com/roberttwomey/ml-art-code/tree/master/week8/Neural_Doodle_keras](https://github.com/roberttwomey/ml-art-code/tree/master/week8/Neural_Doodle_keras)
-- Deep Dream [https://github.com/roberttwomey/ml-art-code/tree/master/week8/deepdream](https://github.com/roberttwomey/ml-art-code/tree/master/week8/deepdream)
+  - Neural Doodle [https://github.com/roberttwomey/ml-art-code/tree/master/week8/Neural_Doodle_keras](https://github.com/roberttwomey/ml-art-code/tree/master/week8/Neural_Doodle_keras)
+  - Deep Dream [https://github.com/roberttwomey/ml-art-code/tree/master/week8/deepdream](https://github.com/roberttwomey/ml-art-code/tree/master/week8/deepdream)
   - Gradient Ascent, maximal activation/excitation
+  - GauGAN using [SPADE](https://github.com/NVlabs/SPADE)
 
 **Lab:**
 - Hands on with Deep Dream.
