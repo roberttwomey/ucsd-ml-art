@@ -318,7 +318,7 @@ Submit online to github classroom: [https://classroom.github.com/g/ujfzX5Wp](htt
 
 [Generative Visual Assignment](). Due 12/1/2019, 11:59pm. Open ended.
 
-Submit online to github classroom: []()
+Submit online to github classroom: [https://classroom.github.com/g/AMOrRaOj](https://classroom.github.com/g/AMOrRaOj)
 
 ## Final Project: Revisit One Project for Exhibit
 
