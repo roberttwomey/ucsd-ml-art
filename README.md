@@ -232,13 +232,14 @@ _Recognition:_
   - Arbitrary Style Transfer
   - Deep Photo Stylization
   - Popular applications
-- Lab: 
-  - [https://github.com/roberttwomey/ml-art-code/tree/master/week6](https://github.com/roberttwomey/ml-art-code/tree/master/week6)
+
+**Lab:**
+- [https://github.com/roberttwomey/ml-art-code/tree/master/week6](https://github.com/roberttwomey/ml-art-code/tree/master/week6)
   - Fast Style, Arbitrary Style, Deep Photo Style
   
 ## Visual Continued (Week 7)
 
-**Day 13: **VETERANS DAY NO CLASS** 11/11
+**Day 13: VETERANS DAY NO CLASS** 11/11
 
 **Project 2 Due:** 11/12, 11:59pm, through github classroom.
 
@@ -248,18 +249,23 @@ _Recognition:_
 
 **Day 15: Deep Dream and Gradient Ascent** 11/18
 - Lecture: ([pdf]())
-- Neural Doodle [https://datahub.ucsd.edu/user/rtwomey/tree/ml-art-code/week8/Neural_Doodle_keras](https://datahub.ucsd.edu/user/rtwomey/tree/ml-art-code/week8/Neural_Doodle_keras)
-- Deep Dream [https://datahub.ucsd.edu/user/rtwomey/tree/ml-art-code/week8/deepdream](https://datahub.ucsd.edu/user/rtwomey/tree/ml-art-code/week8/deepdream)
+- Neural Doodle [https://github.com/roberttwomey/ml-art-code/tree/master/week8/Neural_Doodle_keras](https://github.com/roberttwomey/ml-art-code/tree/master/week8/Neural_Doodle_keras)
+- Deep Dream [https://github.com/roberttwomey/ml-art-code/tree/master/week8/deepdream](https://github.com/roberttwomey/ml-art-code/tree/master/week8/deepdream)
   - Gradient Ascent, maximal activation/excitation
+
+**Lab:**
+- Hands on with Deep Dream.
 
 **Assign Project 3: Generative Visual**
 
 **Day 16: GANs** 11/20
 
-** GANs and Perceptive ML (Week 9)
 - StyleGAN, BigGAN, CycleGAN, DCGAN, Pix2Pix on code repository: [https://github.com/roberttwomey/ml-art-code/tree/master/week8](https://github.com/roberttwomey/ml-art-code/tree/master/week8)
   - Ian Goodfellow tutorial on GANs, NeurIPS 2016 [https://www.youtube.com/watch?v=RvgYvHyT15E](https://www.youtube.com/watch?v=RvgYvHyT15E)
 - Art using GANs
+
+**Lab:**
+- BigGAN Latent Exploration
 
 
 ## Visual (Week 9)
@@ -316,7 +322,7 @@ Submit online to github classroom: [https://classroom.github.com/g/ujfzX5Wp](htt
 
 ## Project 3: Generative Visual
 
-[Generative Visual Assignment](). Due 12/1/2019, 11:59pm. Open ended.
+[Generative Visual Assignment](https://docs.google.com/document/d/1RMeJF1oppSgedvhJGjB8CgGXlytR6KaXK8gMJTGJji0/export?format=pdf). Due 12/1/2019, 11:59pm.
 
 Submit online to github classroom: [https://classroom.github.com/g/AMOrRaOj](https://classroom.github.com/g/AMOrRaOj)
 
