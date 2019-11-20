@@ -260,13 +260,18 @@ _Recognition:_
 **Assign Project 3: Generative Visual**
 
 **Day 16: GANs** 11/20
-
-- StyleGAN, BigGAN, CycleGAN, DCGAN, Pix2Pix on code repository: [https://github.com/roberttwomey/ml-art-code/tree/master/week8](https://github.com/roberttwomey/ml-art-code/tree/master/week8)
+- Lecture: (pdf](https://drive.google.com/open?id=1ikd8HH6VQITmJX2_vVdwVRwmAVXC--QH))
+  - StyleGAN, BigGAN, CycleGAN, DCGAN, Pix2Pix on code repository: [https://github.com/roberttwomey/ml-art-code/tree/master/week8](https://github.com/roberttwomey/ml-art-code/tree/master/week8)
   - Ian Goodfellow tutorial on GANs, NeurIPS 2016 [https://www.youtube.com/watch?v=RvgYvHyT15E](https://www.youtube.com/watch?v=RvgYvHyT15E)
-- Art using GANs
+  - Art using GANs
 
 **Lab:**
 - BigGAN Latent Exploration
+- StyleGAN Exploration
+- Latent Math
+
+**Homework: Project 3 proposal**
+- For MONDAY: Please clone the project3 repository from github classroom, and edit the abstract to be a description of your proposed project.
 
 
 ## Visual (Week 9)
