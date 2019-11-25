@@ -276,8 +276,8 @@ _Recognition:_
 
 ## Visual (Week 9)
 
-**Day 17: Recognition** 11/25
-- Lecture: ([pdf]())
+**Day 17: Image Captioning and Segmentation** 11/25
+- Lecture: ([pdf](https://drive.google.com/open?id=1fyqdat0MlkbuNjgWtncWjkVBwnchEl__))
 - Image Captioning with Visual Attention (MS-COCO)
   - https://colab.research.google.com/drive/1sGC26H7zIZEWrMdI-LN7cIWsF0Ak9tx9
 - Semantic Segmentation
