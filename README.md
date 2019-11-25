@@ -282,7 +282,9 @@ _Recognition:_
   - https://colab.research.google.com/drive/1sGC26H7zIZEWrMdI-LN7cIWsF0Ak9tx9
 - Semantic Segmentation
 - Art using Segmentation and Captioning
-- Project 3 Work Time 
+
+**Lab**
+- Review Project 3 proposals individually.
 
 **Day 18: Platforms** 11/27
 - Lecture: ([pdf]())
