@@ -287,17 +287,10 @@ _Recognition:_
 - Review Project 3 proposals individually.
 
 **Day 18: Platforms** 11/27
-- Lecture: ([pdf]())
+- Lecture: ([pdf](https://drive.google.com/open?id=1e1cq7NQSY5-bzwocT8V9ZxDjwP3tIEzK))
   - What is Datahub?
   - Embedded systems (NVIDIA jetson nano, Google Coral, TPUs, others)
   - Tools (DNNWeaver)  
-- Final Projects
-  - Project repository as usual through github classroom: [https://classroom.github.com/g/pEWp059E](https://classroom.github.com/g/pEWp059E)
-  - An extended project report (4 pages): [google docs](https://docs.google.com/document/d/133H59WZBmH6MlAgFSskFLMQITeIC5d9b2iuzsOfa4E8/edit?usp=sharing)
-  - By wednesday: accept the classroom assignment, fill in your abstract/proposal. Check in with me on Wednesday during class.
-- Inspiration for final projects (from your peers at CMU)
-  - CMU ArtML Spring 19 Finals: http://kangeunsu.com/artml19s/gallery.html  
-- Individual meetings regarding final project.
 
 ## Final Project Development (Week 10)
 
@@ -305,8 +298,19 @@ _Recognition:_
 
 **Day 19: Project 3 Critique** 12/2
 
+**Homework**
+- Final Projects
+  - Project repository as usual through github classroom: []()
+  - An extended project report (4 pages): [google docs](https://docs.google.com/document/d/133H59WZBmH6MlAgFSskFLMQITeIC5d9b2iuzsOfa4E8/edit?usp=sharing)
+  - By wednesday: accept the classroom assignment, fill in your abstract/proposal. Check in with me on Wednesday during class.
+- Inspiration for final projects (from your peers at CMU)
+  - CMU ArtML Spring 19 Finals: http://kangeunsu.com/artml19s/gallery.html  
+- Individual meetings regarding final project.
+
+
 **Day 20: Q+A / Work Time ** 12/4
-- No Lecture ([pdf]())
+- No Lecture
+- Discuss Final Project Ideas
 
 ## Final Presentations / Exhibition (Finals Week)
 
