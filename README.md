@@ -308,7 +308,7 @@ _Recognition:_
 - Individual meetings regarding final project.
 
 
-**Day 20: Q+A / Work Time ** 12/4
+**Day 20: Q+A / Work Time** 12/4
 - No Lecture
 - Discuss Final Project Ideas
 
