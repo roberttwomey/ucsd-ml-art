@@ -347,8 +347,12 @@ PROJECT DUE 12/11, 8-11am. Location TBD.
 REPORT DUE 12/13, 11:59pm. Add the pdf to your github, please.
 
 For the final project you will need to submit two things: 
-- Project repository as usual through github classroom: []()
-- An extended project report (4 pages): [google docs]()
+- Project repository as usual through github classroom: [
+https://classroom.github.com/g/lGEIfW-a
+](
+https://classroom.github.com/g/lGEIfW-a
+)
+- An extended project report (4 pages): see google doc link in repository
 
 # Addenda
 
