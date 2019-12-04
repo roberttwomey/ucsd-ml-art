@@ -308,9 +308,11 @@ _Recognition:_
 - Individual meetings regarding final project.
 
 
-**Day 20: Q+A / Work Time** 12/4
+**Day 20: Creativity Metric Activity, Final Project Check-in** 12/4
 - No Lecture
 - Discuss Final Project Ideas
+- In class Assessing Computational Creativity activity
+  - In small groups (2 ppl), work with [this spreadsheet](https://docs.google.com/spreadsheets/d/1RVQS78aAa5CBBkG7tXRpURzETUh3lZbDeLWsOrUSkwg/edit?usp=sharing): 
 
 ## Final Presentations / Exhibition (Finals Week)
 
@@ -338,7 +340,7 @@ Submit online to github classroom: [https://classroom.github.com/g/ujfzX5Wp](htt
 
 Submit online to github classroom: [https://classroom.github.com/g/AMOrRaOj](https://classroom.github.com/g/AMOrRaOj)
 
-## Final Project: Revisit One Project for Exhibit
+## Final Project: Revisit One Project for Showcase
 
 Refine, enhance, extend one of your earlier projects for the showcase during Finals Week. 
 
